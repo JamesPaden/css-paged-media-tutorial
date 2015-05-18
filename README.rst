@@ -1,7 +1,8 @@
 Tutorial CSS Paged Media
 ========================
 
-Author:
+Author
+------
 
 Andreas Jung
 info@zopyx.com
