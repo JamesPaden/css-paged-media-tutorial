@@ -27,9 +27,8 @@ Basic converter usage
 
 .. code-block::
 
-    prince index.html index.pdf
-
-    pdfreactor index.html index.pdf
+    > prince index.html index.pdf
+    > pdfreactor index.html index.pdf
 
 
 
