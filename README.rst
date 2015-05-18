@@ -39,7 +39,7 @@ Author
 
 | Andreas Jung
 | info@zopyx.com
-| @MacYET
+| @MacYET on Twitter
 | www.zopyx.com
 | www.produce-and-publish.com
 | www.xml-director.info
