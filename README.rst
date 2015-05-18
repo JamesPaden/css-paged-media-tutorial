@@ -1,6 +1,11 @@
 Tutorial CSS Paged Media
 ========================
 
+Prequisites
+-----------
+
+
+
 Author
 ------
 
