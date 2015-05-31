@@ -1,0 +1,24 @@
+@page {
+    size: a4;
+}
+
+.tux {
+    width: 5cm;
+    height: 5cm;
+    border: 1px solid blue;
+}
+
+#tux1 {
+    transform-origin: 0px;
+    transform: rotate(0.001deg); /* PDFreactor error */
+}
+
+#tux2 {
+    transform-origin: 0px;
+    transform: rotate(45deg) scale(1.5);
+}
+
+#tux3 {
+    transform-origin: 0px;
+    transform: rotate(90deg)  scale(2.0);
+}
