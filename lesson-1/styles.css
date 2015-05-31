@@ -1,6 +1,14 @@
+@page {
+    size: a4 landscape;
+    margin: 0;
+    padding: 0;
+}
+
 p {
     font-family: Arial; 
     font-size: 20px;
+    color: red;
 }
+
 
 
