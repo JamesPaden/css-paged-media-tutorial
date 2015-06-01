@@ -1,0 +1,26 @@
+@page {
+    size: a4;
+    margin: 3cm;
+    border: 1px solid blue;
+    padding: 1em;
+}
+
+h1 {
+    position: running(header1);
+    font-size: 1em;
+}
+
+h2 {
+    position: running(header2);
+    font-size: 1em;
+}
+
+@page{
+    @top-left-corner {
+        content: element(header1);
+    }
+
+    @top-right-corner {
+        content: element(header2);
+    }
+}
