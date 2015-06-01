@@ -1,0 +1,23 @@
+@page {
+    size: a4;
+}
+
+@page {
+    @footnote {
+        border-top: dashed red 1px;
+        float: bottom;
+    }
+}
+
+span.footnote { float: footnote; }
+
+.footnote::footnote-call {
+    content: counter(footnote, decimal) " ";
+    color: green;
+}
+
+.footnote::footnote-marker {
+    content: counter(footnote, lower-roman);
+    font-size: 14px;
+    color: blue;
+}
