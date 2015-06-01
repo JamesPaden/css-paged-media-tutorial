@@ -1,0 +1,13 @@
+@page {
+    size: a4 landscape;
+}
+
+#block {
+    direction: rtl;
+    list-style-type: none;
+}
+
+li::before {
+    content: attr(vnumber);
+    padding-left: 1em;
+}

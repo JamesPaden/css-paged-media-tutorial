@@ -9,14 +9,26 @@
     src: url(AlexBrush-Regular.ttf);
 }
 
+@font-face {
+    font-family: Font3;
+    src: url(Forum-Regular.ttf);
+}
+
+
 #block1 {
     font-family: Font1;
-    font-size: 24px;
+    font-size: 36px;
     color: red;
 }
 
 #block2 {
     font-family: Font2;
-    font-size: 24px;
+    font-size: 36px;
     color: blue;
+}
+
+#block3 {
+    font-family: Font3;
+    font-size: 36px;
+    color: orange;
 }
