@@ -4,6 +4,7 @@
 
 p {
     text-align: justify;
+    font-size: 16pt;
 }
 
 p.hyphenate {
@@ -11,5 +12,7 @@ p.hyphenate {
 }
 
 
-
+#break {
+    page-break-before: always;
+}
 
