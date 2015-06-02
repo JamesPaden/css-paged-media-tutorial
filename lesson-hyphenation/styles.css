@@ -1,0 +1,15 @@
+@page {
+    size: a4;
+}
+
+p {
+    text-align: justify;
+}
+
+p.hyphenate {
+    hyphens: auto;
+}
+
+
+
+
