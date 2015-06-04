@@ -63,8 +63,10 @@ Basic converter usage
 Structure of the tutorial
 -------------------------
 
-Lesson Basic
+``Lesson Basic``__
 ++++++++++++
+
+:: _lesson-basic:
 
 In the first lesson you will learn
 
@@ -89,7 +91,6 @@ for live coding. We will use the content to show you
 All lessons
 +++++++++++
 
-:: _lesson-basic:
 :: _lesson-chaining-boxes:
 :: _lesson-chapter-numbering:
 :: _lesson-css-transformations:
