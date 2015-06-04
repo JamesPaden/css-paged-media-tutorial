@@ -63,9 +63,10 @@ Basic converter usage
 Structure of the tutorial
 -------------------------
 
-``Lesson Basic``__
+Lesson Basic
 ++++++++++++
 
+``Link``_:
 :: _lesson-basic:
 
 In the first lesson you will learn
