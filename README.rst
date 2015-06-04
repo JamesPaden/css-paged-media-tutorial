@@ -5,6 +5,33 @@ This tutorial shows how to generate PDF documents from XML/HTML
 using the "CSS Paged Media" approach where the complete styling
 and layout information is keep in cascading stylessheets (CSS).
 
+
+What is CSS Paged Media
+-----------------------
+
+Short version: CSS Paged Media (a W3C standard) is a way to generate
+PDF documents from XML/HTML as input and CSS for styling. Consider it as
+an extension for CSS for print purposes. So it is obvious that CSS Paged Media
+must deal with print aspects like pagination, page formats, page regions or 
+other print specific aspects.
+
+Status of this tutorial
+-----------------------
+
+This tutorial is work-in-progress and based on the "CSS Paged Media"
+workshop given for the first time at the XML London 2015 conference.
+The tutorial is split into various aspects of CSS Paged Media and usually
+contains a sample `ìndex.html`` with example data suitable for the purpose
+of a particiular lesson and a ``styles.css`` file holding the specific
+print styles. The styles are kept as simple as impossible in order to demonstrate
+the functionality. Nice layout options are being omitted for the sake keeping
+everything as simple as possible.
+
+Author of this tutorial
+-----------------------
+
+See http://about.me/andreasjung or https://www.zopyx.com/company/team-and-partners/andreas-jung
+
 Software
 --------
 
