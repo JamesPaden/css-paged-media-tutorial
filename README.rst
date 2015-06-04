@@ -63,8 +63,8 @@ Basic converter usage
 Structure of the tutorial
 -------------------------
 
-Lesson 1
-++++++++
+Lesson Basic
+++++++++++++
 
 In the first lesson you will learn
 
@@ -86,6 +86,23 @@ for live coding. We will use the content to show you
 - running tables
 - image formatting
 
+All lessons
++++++++++++
+
+:: _lesson-basic:
+:: _lesson-chaining-boxes:
+:: _lesson-chapter-numbering:
+:: _lesson-css-transformations:
+:: _lesson-fonts:
+:: _lesson-footnotes:
+:: _lesson-guideline:
+:: _lesson-hyphenation:
+:: _lesson-margin-boxes:
+:: _lesson-page-numbers:
+:: _lesson-pagination:
+:: _lesson-positioning:
+:: _lesson-right-to-left:
+:: _lesson-running-elements:
 
 Author
 ------
