@@ -44,7 +44,7 @@ or
 * PrinceXML 10 (www.princexml.com)
 
 The external converters are available for all decent operating systems like
-MacOS, Windows or Linux. The preferred converter for this tool is PDFreactor.
+MacOS, Windows or Linux. The preferred converter for this tutorial is PDFreactor (and PrinceXML).
 Both converters are available for evaluation or private purposes for free.
 Antennahouse provides a special "CSS Edition" of its Antennahouse Formatter
 software as well - however we do not have much experience with this version (in
