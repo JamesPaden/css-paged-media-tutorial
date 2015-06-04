@@ -66,9 +66,6 @@ Structure of the tutorial
 Lesson Basic
 ++++++++++++
 
-``Link``_:
-:: _lesson-basic:
-
 In the first lesson you will learn
 
 - the basic usage of the converter tools
@@ -92,19 +89,20 @@ for live coding. We will use the content to show you
 All lessons
 +++++++++++
 
-:: _lesson-chaining-boxes:
-:: _lesson-chapter-numbering:
-:: _lesson-css-transformations:
-:: _lesson-fonts:
-:: _lesson-footnotes:
-:: _lesson-guideline:
-:: _lesson-hyphenation:
-:: _lesson-margin-boxes:
-:: _lesson-page-numbers:
-:: _lesson-pagination:
-:: _lesson-positioning:
-:: _lesson-right-to-left:
-:: _lesson-running-elements:
+- lesson-basic
+- lesson-chaining-boxes
+- lesson-chapter-numbering
+- lesson-css-transformations
+- lesson-font:
+- lesson-footnotes
+- lesson-guideline
+- lesson-hyphenation
+- lesson-margin-boxes
+- lesson-page-numbers
+- lesson-pagination
+- lesson-positioning
+- lesson-right-to-left
+- lesson-running-elements
 
 Author
 ------
