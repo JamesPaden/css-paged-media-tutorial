@@ -1,0 +1,33 @@
+@page {
+    size: a4;
+}
+
+myindentedparagraph {
+    display: block;
+    margin: 2cm;
+    border: 1px dashed grey;
+}
+
+mytable {
+    display: table;
+    border: 1px solid blue;
+    width: 80%;
+}
+
+row {
+    display: table-row;
+}
+
+cell {
+    display: table-cell;
+    width: 25%;
+}
+
+mylist {
+    display: block;
+}
+
+item {
+    display: list-item;
+    list-style-type: circle;
+}
