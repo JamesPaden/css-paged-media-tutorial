@@ -48,7 +48,9 @@ MacOS, Windows or Linux. The preferred converter for this tutorial is PDFreactor
 Both converters are available for evaluation or private purposes for free.
 Antennahouse provides a special "CSS Edition" of its Antennahouse Formatter
 software as well - however we do not have much experience with this version (in
-addition to the much higher license fees).
+addition to the much higher license fees). There is another tool called PDFchip
+which also implements parts of the CSS Paged Media standard but it lacks several
+feature besides the ridiculous high licence fees (so not an option for us).
 
 
 Basic converter usage
