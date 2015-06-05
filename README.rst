@@ -62,6 +62,12 @@ Basic converter usage
     > pdfreactor index.html index.pdf
 
 
+Supplementary material
+----------------------
+
+- https://www.youtube.com/watch?v=H-5_b9m3p1k
+- http://de.slideshare.net/ajung/css-paged-media-a-review-of-tools-and-techniques
+
 Structure of the tutorial
 -------------------------
 
