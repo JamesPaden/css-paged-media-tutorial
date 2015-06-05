@@ -21,7 +21,7 @@ Status of this tutorial
 This tutorial is work-in-progress and based on the "CSS Paged Media"
 workshop given for the first time at the XML London 2015 conference.
 The tutorial is split into various aspects of CSS Paged Media and usually
-contains a sample `ìndex.html`` with example data suitable for the purpose
+contains a sample ``index.html`` with example data suitable for the purpose
 of a particiular lesson and a ``styles.css`` file holding the specific
 print styles. The styles are kept as simple as impossible in order to demonstrate
 the functionality. Nice layout options are being omitted for the sake keeping
