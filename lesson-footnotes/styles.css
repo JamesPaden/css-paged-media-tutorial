@@ -1,5 +1,6 @@
 @page {
     size: a4;
+    counter-reset: footnote 1;
 }
 
 @page {
@@ -9,7 +10,10 @@
     }
 }
 
-span.footnote { float: footnote; }
+span.footnote { 
+    float: footnote; 
+    counter-increment: footnote;
+}
 
 .footnote::footnote-call {
     content: counter(footnote, decimal) " ";
