@@ -7,6 +7,10 @@
     list-style-type: none;
 }
 
+#block-ltr {
+    list-style-type: none;
+}
+
 li::before {
     content: attr(vnumber);
     padding-left: 1em;
