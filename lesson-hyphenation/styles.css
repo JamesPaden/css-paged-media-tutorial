@@ -10,6 +10,10 @@ p {
 
 p.hyphenate {
     hyphens: auto;
+    -epub-hyphens: auto;
+    -webkit-hyphens: auto;
+    -moz-hyphens: auto;
+    -ms-hyphens: auto;
 }
 
 
