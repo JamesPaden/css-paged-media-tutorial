@@ -1,12 +1,26 @@
 <html>
     <head>
         <style type="text/css">
+            @-epubx-page-template {
+                @-epubx-page-master {
+                    @-epubx-partition {
+                        -epubx-flow-from: body;
+                    }
+                    @-epubx-partition {
+                        -epubx-flow-from: ball;
+                        top: 2cm;
+                        right: 8cm;
+                        width: 4cm;
+                        -epubx-shape-outside: circle(50%, 50%, 50%);
+                    }
+                }
+            }
             #ball {
-                width: 7cm;
-                float: right;
-                shape-outside: circle(50%);
-                -webkit-shape-outside: circle(50%);
-                -epubx-shape-outside: circle(50%);
+                width: 4cm;
+                -epubx-flow-into: ball;
+            }
+
+            p {
             }
         </style>
     </head>
