@@ -1,7 +1,7 @@
 @page {
-    size: a4 landscape;
-    margin: 0;
-    padding: 0;
+    size: a4;
+    margin: 2cm;
+    padding: 2cm;
 }
 
 p {
@@ -10,5 +10,14 @@ p {
     color: red;
 }
 
+table {
+    border: 1px solid black;
+    width: 50%;
+    border-collapse: collapse;
+}
 
+td, th {
+    border: 1px solid black;
+    text-align: center;
+}
 
