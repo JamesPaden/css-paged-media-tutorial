@@ -1,2 +1,1 @@
-all:
-	pdfreactor html/index.html index.pdf
+include ../Makefile
