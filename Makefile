@@ -7,5 +7,5 @@ prince:
 	prince -v index.html index-prince.pdf
 
 vivliostyle: 
-	vivliostyle-formatter index.html index.pdf
+	vivliostyle-formatter --output-file-name index-vivliostyle.pdf index.html 
 
