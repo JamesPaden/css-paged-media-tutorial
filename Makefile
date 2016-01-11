@@ -15,3 +15,6 @@ clean:
 git: clean all 
 	git add *pdf
 	git commit -m updated *pdf
+
+push: 
+	git push
