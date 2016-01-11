@@ -1,5 +1,6 @@
 @page {
-    size: a4;
+    size: a5;
+    margin: 2cm;
 }
 
 myindentedparagraph {
@@ -12,15 +13,19 @@ mytable {
     display: table;
     border: 1px solid blue;
     width: 80%;
+    border-collapse: collapse;
 }
 
 row {
     display: table-row;
+    border: 1px solid blue;
 }
 
 cell {
     display: table-cell;
     width: 25%;
+    border: 1px solid blue;
+    text-align: center;
 }
 
 mylist {
