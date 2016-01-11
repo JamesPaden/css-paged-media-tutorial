@@ -14,6 +14,7 @@ table.complex {
   border-left: 1px solid #808080; 
   border-right: 1px solid #808080; 
   border-bottom: 1px solid #808080; 
+  max-width: 100%;
 } 
 
 table.complex caption { 
@@ -86,6 +87,6 @@ table#long-table th {
 
 table#long-table th,
 table#long-table td {
-    border: 1 solid grey;
+    border: 1px solid grey;
     padding: 0.5em;
 }
