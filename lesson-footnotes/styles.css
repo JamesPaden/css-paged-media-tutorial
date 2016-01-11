@@ -1,6 +1,6 @@
 @page {
     size: a4;
-    counter-reset: footnote 1;
+    counter-reset: footnote 0;
 }
 
 @page {
