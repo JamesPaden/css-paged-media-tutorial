@@ -37,11 +37,11 @@ Software
 
 The tutorial is based on external converters like 
 
-* PDFreactor 7 (www.pdfreactor.com)
+* PDFreactor 7 or 8 (www.pdfreactor.com)
 
 or
 
-* PrinceXML 10 (www.princexml.com)
+* PrinceXML 9 or 10 (www.princexml.com)
 
 The external converters are available for all decent operating systems like
 MacOS, Windows or Linux. The preferred converter for this tutorial is PDFreactor (and PrinceXML).
@@ -52,6 +52,11 @@ addition to the much higher license fees). There is another tool called PDFchip
 which also implements parts of the CSS Paged Media standard but it lacks several
 feature besides the ridiculous high licence fees (so not an option for us).
 
+This tutorial also partly supports the Vivlostyle Formatter (www.vivliostyle.com).
+For the moment it is unclear which parts of the CSS Paged Media standard are or
+will be supported due to the beta status of the software and the lack of decent
+documentation.
+
 
 Basic converter usage
 ---------------------
@@ -60,6 +65,18 @@ Basic converter usage
 
     > prince index.html index.pdf
     > pdfreactor index.html index.pdf
+
+The core examples work both with ```pdfreactor`` and ``prince```. Ensure that
+the related binary/binaries are configured in the ``$PATH`` of your shell environment.
+
+Each of ``lesson-...`` directory contains a ``Makefile`` that can be used in the same
+across all lessons for generating a PDF with PDFreactor or PrinceXML.
+
+    > make pdfreactor -> generates pdfreactor.pdf as output
+
+    > make prince -> generates prince.pdf as output
+
+    > make vivliostyle -> generates vivliostyle-formatter.pdf as output
 
 
 Supplementary material
