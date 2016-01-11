@@ -70,12 +70,10 @@ The core examples work both with ```pdfreactor`` and ``prince```. Ensure that
 the related binary/binaries are configured in the ``$PATH`` of your shell environment.
 
 Each of ``lesson-...`` directory contains a ``Makefile`` that can be used in the same
-across all lessons for generating a PDF with PDFreactor or PrinceXML.
+across all lessons for generating a PDF with PDFreactor or PrinceXML::
 
     > make pdfreactor -> generates pdfreactor.pdf as output
-
     > make prince -> generates prince.pdf as output
-
     > make vivliostyle -> generates vivliostyle-formatter.pdf as output
 
 
