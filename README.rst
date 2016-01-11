@@ -83,6 +83,16 @@ Supplementary material
 - https://www.youtube.com/watch?v=H-5_b9m3p1k
 - http://de.slideshare.net/ajung/css-paged-media-a-review-of-tools-and-techniques
 
+
+Compatibility matrix
+====================
+
+======     ==========     ========    ===========
+Lesson     PDFreactor     PrinceXML   Vivliostyle 
+======     ==========     ========    ===========
+
+
+
 Structure of the tutorial
 -------------------------
 
