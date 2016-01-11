@@ -1,26 +1,33 @@
 @page {
-    size: a4;
-    margin: 3cm;
-    border: 1px solid blue;
-    padding: 1em;
+    size: a5;
+    margin: 1cm;
 }
 
 h1 {
     position: running(header1);
-    font-size: 1em;
+    font-size: 1.2em;
+    font-weight: bold;
 }
 
 h2 {
     position: running(header2);
     font-size: 1em;
+    color: blue;
+}
+
+div.title {
+    font-size: 2em;
+    margin-bottom: 2em;
+    page-break-before: always;
 }
 
 @page{
-    @top-left-corner {
+
+    @top-left {
         content: element(header1);
     }
 
-    @top-right-corner {
+    @top-right {
         content: element(header2);
     }
 }
