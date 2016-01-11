@@ -135,24 +135,6 @@ for live coding. We will use the content to show you
 - running tables
 - image formatting
 
-All lessons
-+++++++++++
-
-- lesson-basic
-- lesson-chaining-boxes
-- lesson-chapter-numbering
-- lesson-css-transformations
-- lesson-font:
-- lesson-footnotes
-- lesson-guideline
-- lesson-hyphenation
-- lesson-margin-boxes
-- lesson-page-numbers
-- lesson-pagination
-- lesson-positioning
-- lesson-right-to-left
-- lesson-running-elements
-
 Author
 ------
 
