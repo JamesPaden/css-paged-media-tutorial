@@ -1,14 +1,22 @@
+@font-face {
+    font-family: MyFont;
+    src: url(DejaVuSans.ttf);
+}
+
 @page {
     size: a4 landscape;
 }
 
+
 #block {
     direction: rtl;
     list-style-type: none;
+    font-family: MyFont;
 }
 
 #block-ltr {
     list-style-type: none;
+    font-family: MyFont;
 }
 
 li::before {
