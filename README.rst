@@ -91,7 +91,7 @@ Compatibility matrix
 Lesson                         PDFreactor     PrinceXML   Vivliostyle 
 ============================   ==========     =========   ===========
 lesson-basic                       Y             Y             Y
-lesson-chapter-numbering           Y             Y            (Y)
+lesson-chapter-numbering           Y             Y             N 
 lesson-css-transformations         Y             Y             N
 lesson-fonts                       Y             Y             Y
 lesson-footnotes                   Y             Y             N
