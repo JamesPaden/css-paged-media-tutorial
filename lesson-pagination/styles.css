@@ -1,5 +1,6 @@
 @page {
-    size: a4;
+    size: a5;
+    margin: 2cm;
 }
 
 p {
@@ -9,7 +10,7 @@ p {
 }
 
 h1 {
-    page-break-after: always;
+    page-break-before: always;
 }
 
 p {
