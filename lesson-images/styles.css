@@ -3,6 +3,10 @@ img {
     margin-bottom: 1em;        
 }
 
+h1 {
+    page-break-before: always;
+}
+
 .image-100 {
     width: 100%
 }
