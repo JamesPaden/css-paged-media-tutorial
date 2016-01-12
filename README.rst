@@ -97,11 +97,11 @@ Antennahouse CSS Formatter
 * Website: www.antennahouse.com
 * Pricing:
 
-    * Server license with one CPU: 5000 USD, additional CPU: 4000 USD each
-    * Standalone license: 1250 USD
-    * SVG option: 2000 USD
-    * MathML option: 500 USD
-    * Barcode option: 1500 USD
+  * Server license with one CPU: 5000 USD, additional CPU: 4000 USD each
+  * Standalone license: 1250 USD
+  * SVG option: 2000 USD
+  * MathML option: 500 USD
+  * Barcode option: 1500 USD
 
 
 Basic converter usage
