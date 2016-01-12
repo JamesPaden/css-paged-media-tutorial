@@ -96,6 +96,7 @@ Antennahouse CSS Formatter
 * current version: 6.2
 * Website: www.antennahouse.com
 * Pricing:
+
     * Server license with one CPU: 5000 USD, additional CPU: 4000 USD each
     * Standalone license: 1250 USD
     * SVG option: 2000 USD
