@@ -110,8 +110,8 @@ lesson-char-js                     Y             N             N
 lesson-flotr2-js                   Y             N             N
 ============================   ==========     =========   ===========
 
-Y = Yes, renders as expected without errors
-N = No, does not render properly
+**Y** = Yes, renders as expected without errors
+**N** = No, does not render properly
 
 Structure of the tutorial
 -------------------------
