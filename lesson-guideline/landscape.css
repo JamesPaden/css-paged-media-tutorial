@@ -1,0 +1,26 @@
+@page {
+    size: a4 landscape;
+}
+
+#cover-title {
+    padding-top: 2em;
+}
+
+.infos-nologo,
+.infos {
+    top: 135mm;
+}
+
+/* Logos */
+
+#footer {
+    top: 150mm;
+}
+
+#preface {
+    padding-top: 20mm;
+}
+
+h1, h2, h3 {
+    page-break-after: avoid;
+}

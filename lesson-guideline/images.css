@@ -1,0 +1,47 @@
+#main-content img {
+    display: block;
+    max-width: 500px;
+}
+
+figure {
+    page-break-inside: avoid;
+    -ro-pdf-tag-type: "Div";
+}   
+
+figure figcaption {
+    margin-bottom: 1em;
+    font-weight: bold;
+    font-size: 0.8em;
+}
+
+img.inline-graphic {
+    display: inline-block !important;
+    margin-right: 0.5em;
+}
+
+/* SVG */
+object {
+    width: 100%;
+}
+
+.width-100 { width: 100%; height: 100%}
+.width-90 { width: 90%; height: 100%}
+.width-80 { width: 80%; height: 100%}
+.width-70 { width: 70%; height: 100%}
+.width-60 { width: 60%; height: 100%}
+.width-50 { width: 50%; height: 100%}
+.width-40 { width: 40%; height: 100%}
+.width-30 { width: 30%; height: 100%}
+.width-20 { width: 20%; height: 100%}
+.width-10 { width: 10%; height: 100%}
+.width-0 { width: 0%; height: 100%}
+.width-95 { width: 95%; height: 100%}
+.width-85 { width: 85%; height: 100%}
+.width-75 { width: 75%; height: 100%}
+.width-65 { width: 65%; height: 100%}
+.width-55 { width: 55%; height: 100%}
+.width-45 { width: 45%; height: 100%}
+.width-35 { width: 35%; height: 100%}
+.width-25 { width: 25%; height: 100%}
+.width-15 { width: 15%; height: 100%}
+.width-5 { width: 5%}

@@ -1,0 +1,221 @@
+@page {
+    size: a4;
+    margin: 2cm;
+    counter-increment: page 1;
+
+    @bottom-center {
+        font-family: "DejaVu Sans";
+        content: counter(page);
+    }
+}
+
+/* 
+   Page 1 starts on the first TOC page.
+   So we start counting with -2 (two cover pages)
+   in order to have the counter at 1 on the first
+   TOC page
+*/
+@page:first {
+    counter-reset: page -2;
+}
+
+body {
+    font-family: "DejaVu Sans";
+    font-size: 10pt;
+    line-height: 1.4em;
+}
+
+
+#cover-title,
+h1, h2, h3, h4, h5 {
+    line-height: 1.6em;
+    hyphens: auto;
+    hyphenate-before: 4;
+    hyphenate-after: 4;
+}
+
+h3,h4 {
+}
+
+section.sectionempty {
+    display: none;
+}
+
+.section-number {
+    margin-right: 0.5em;
+}
+
+.authoraddresses .author {
+    page-break-inside: avoid;
+    margin-bottom: 1em;
+}
+
+.authors .additional {
+    display: block;
+    white-space: pre-line;
+}
+
+.authors .additional p {
+    padding-top: 0;
+    margin-top: 0;
+}
+
+.legenddesc,
+p {
+    text-align: justify;        
+    hyphens: auto;
+    hyphenate-before: 4;
+    hyphenate-after: 3;
+}
+
+.legendentry {
+    display: block;
+}
+
+a {
+    text-decoration: none !important;
+}
+
+.legend {
+    font-size: 0.8em;
+    font-style: italic;
+    line-height: 1.2em;
+    color: #555;
+    margin-right: 1em;
+}
+
+.referencetherapy {
+    color: #ff0000;
+}
+
+.newtherapy {
+    color: #00b050;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.center,
+.align-center {
+    text-align: center;
+}
+
+.segment-with-heading {
+    page-break-inside: avoid;
+}
+
+.seg-head {
+    font-weight: bold;
+}
+
+.image-resolutions-not-ok {
+    color: red;
+    font-weight: bold;
+    border: 1px solid red;
+    padding: 3px;
+    position: absolute;
+    bottom: 1em;
+    text-align: center;
+    border-radius: 5px;
+    width: 100%;
+}
+
+/* Localization */
+
+body[lang='de'] .legend:before {
+    content: 'Legende:';
+}
+
+body[lang='en'] .legend:before {
+    content: 'Legend:';
+}
+
+
+/* bullets */
+
+.legendsymbol:before,
+.certstatus:before {
+    content: '\2b24';
+    font-size: 12px;
+    text-align: center;
+}
+
+p.certstatus {
+    display: block;
+    text-align: center;
+}
+
+.authorised-no:before {
+    color: red;
+    font-style: normal;
+}
+
+.authorised-yes:before {
+    color: green;
+    font-style: normal;
+}
+
+.arrow-blue:before {
+    content: '\2014';
+    font-size: 25px;
+    vertical-align: -30%;
+    color: #0b23d4;
+    padding-right: 0.25em;
+}
+
+.arrow-yellow:before {
+    content: '\2014';
+    font-size: 25px;
+    vertical-align: -30%;
+    color: orange;
+    padding-right: 0.25em;
+}
+
+.arrow-black:before {
+    content: '\2014';
+    font-size: 25px;
+    vertical-align: -30%;
+    color: black;
+    padding-right: 0.25em;
+}
+
+.dotted-arrow-blue:before {
+    content: '\2012\00a0\2012\00a0\2012';
+    font-size: 25px;
+    vertical-align: -30%;
+    color: #0b23d4;
+    padding-right: 0.25em;
+}
+
+.dotted-arrow-yellow:before {
+    content: '\2012\00a0\2012\00a0\2012';
+    font-size: 25px;
+    vertical-align: -30%;
+    color: orange;
+    padding-right: 0.25em;
+}
+
+.dotted-arrow-black:before {
+    content: '\2012\00a0\2012\00a0\2012';
+    font-size: 25px;
+    vertical-align: -30%;
+    color: black;
+    padding-right: 0.25em;
+}
+
+.date {
+    margin-bottom: 1em;
+}
+
+#sect-disclaimer .segment {
+    font-size: 0.8em;
+}
+
+/*
+.link,
+.link-pubmed,
+.link-doi {
+    word-wrap: break-word;
+}
+*/

@@ -1,0 +1,172 @@
+#cover-front,
+#preface {
+    page-break-after: always
+}
+
+@page {
+  margin: 30mm 30mm 20mm 30mm;   
+}
+
+#header {
+        text-align:left;
+}
+
+#header .dgho {
+    margin:0 0 4mm 0;
+}
+
+#header .dgho img,
+#header .onkopedia img {
+    width: 78.3mm;
+}
+#header .onkopedia-leitlinien img {
+    padding-top:3mm;
+    width: 77.5mm;
+}
+/* Cover (1st page) */
+#cover {
+    page-break-after: always;
+    font-family: "DejaVu Sans";
+    text-align: left;
+}
+
+#cover-front {
+    page: cover;
+}
+
+#cover-title { 
+    color: #6D6D72;
+    z-index: 100;
+    line-height: 1.2;
+    padding: 0;
+    padding-top: 5cm;
+    margin:0; 
+    font-weight: bold;
+    text-align: left;
+    font-size:26pt;
+}
+
+#cover-subtitle { 
+    color: #0A5098;
+    padding: 0; 
+    margin: 0;
+    text-align: left;
+    z-index: 100;
+    font-size:18pt;
+    margin-top: 1em;
+    font-weight: bold;
+}
+
+/* Preface (2nd page) */
+
+#preface {
+    padding-top: 90mm;
+    page-break-after: always;
+    font-family: "DejaVu Sans";
+    page: preface;
+}
+
+.preface-item { 
+  color: #000;
+  padding: 0; 
+  margin: 0;
+  text-align: left;
+  z-index: 100;
+  font-size: 14pt;
+  font-weight: bold;
+}
+#preface p {
+    color: #000;
+    padding: 0; 
+    margin: 3mm 0;
+    text-align: left;
+    z-index: 100;
+    font-size:10.5pt;
+}
+p.preface-footer { 
+  margin-top:20mm;
+}
+img { 
+    vertical-align: top;
+    border: none; 
+    margin: 0; 
+    padding: 0;
+}
+
+.infos-nologo,
+.infos {
+    position: absolute;
+    top: 182mm;
+    left: 0cm; 
+    hyphens: none;
+    font-size: 14pt; 
+    line-height:1.2em;
+}
+
+/* Logos */
+
+#footer {
+    position: absolute;
+    top: 200mm;
+    left: 0cm; 
+    border-top:1pt solid #6D6D72;
+    text-align: left;
+    padding:5mm 0 0 0;
+    width:100%;
+}
+
+#footer img {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#dgho-logo {
+    width: 32mm;
+    padding-right:5mm;
+}              
+
+#oegho-logo {
+    width: 32mm;
+    padding-right:5mm;
+}  
+
+#kokon-logo {
+    width: 32mm;
+    padding-right:5mm;
+}              
+
+#cam-cancer-logo {
+    width: 32mm;
+    padding-right:5mm;
+}              
+
+#sgmo-logo {
+    width: 22mm;
+    padding-right:5mm;
+}              
+
+#sghssh-logo {
+    width: 35mm;
+    padding-right:3mm;
+}
+#dgti-logo {
+    width: 15mm;
+}
+#gpoh-logo {
+    width: 30mm;
+}
+
+/* no page numbers on cover + preface page */
+
+@page cover {
+    @bottom-center {
+        content: " ";   
+    }
+}
+
+@page preface {
+    @bottom-center {
+        content: " ";   
+    }
+} 
+

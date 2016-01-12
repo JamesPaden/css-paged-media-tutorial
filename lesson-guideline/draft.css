@@ -1,0 +1,12 @@
+@page {
+    @top-center {
+        content: xhtml(url('draft.html'));
+    }
+}
+
+.draft {
+    text-align: center;
+    color: #aaa;
+    font-family: DejaVU Sans;
+    font-size: 20px;
+}

@@ -1,0 +1,91 @@
+<section id="cover-front" 
+    tal:define="societies python: options['metadata']['societies'] or ()">
+
+    <div id="cover">
+      <div id="header">
+        <div class="onkopedia"><img src="onkopedia-logo.png" alt="Onkopedia Logo" /></div>
+        <div class="onkopedia-leitlinien"><img src="onkopedia-leitlinien.png" alt="Onkopedia Leitlinien"/></div>
+      </div>
+
+      <div id="cover-title" tal:content="options/metadata/title">
+        Infektöse Komplikationen nach Hochdosistherapie und
+        autologer Stammzelltransplantation
+      </div>
+
+      <div id="cover-subtitle" tal:condition="python: options['metadata']['documenttype'] == u'guideline'">
+        Leitlinie
+      </div>
+
+      <div tal:attributes="class python: societies and 'infos' or 'infos-nologo'">
+        Empfehlungen der Fachgesellschaft zur Diagnostik und
+        Therapie hämatologischer und onkologischer
+        Erkrankungen
+      </div>
+
+      <div id="footer" tal:condition="societies">
+          <img tal:condition="python: 'dgho' in societies"   id="dgho-logo" src="dgho-logo.svg" alt="DGHO Logo"/>
+          <img tal:condition="python: 'oegho' in societies"  id="oegho-logo" src="oegho-logo.svg" alt="OEGHO Logo" />
+          <img tal:condition="python: 'sgmo' in societies"   id="sgmo-logo" src="sgmo-logo.svg" alt="SGMO Logo" />
+          <img tal:condition="python: 'sghssh' in societies" id="sghssh-logo" src="sghssh-logo.svg" alt="SGHSSH Logo" />
+          <img tal:condition="python: 'dgti' in societies"   id="dgti-logo" src="dgti-logo.png" alt="DGTI Logo" />
+          <img tal:condition="python: 'gpoh' in societies"   id="gpoh-logo" src="gpoh-logo.svg" alt="GPOH Logo" />
+          <img tal:condition="python: 'cam-cancer' in societies"   id="cam-cancer-logo" src="cam-cancer-logo.svg" alt="CAM Cancer Logo" />
+          <img tal:condition="python: 'kokon' in societies"   id="kokon-logo" src="kokon-logo.svg" alt="Kokon Logo" />
+      </div>
+
+      <!--
+          <div class="image-resolutions-not-ok" tal:condition="not: options/image_resolutions_ok">
+              BITTE AUFLÖSUNG DER BILDER PRÜFEN!!!
+          </div>
+      -->
+    </div>
+
+</section>
+
+
+<section id="preface">
+
+  <div class="preface-item">
+    Herausgeber
+  </div>
+
+  <p>DGHO Deutsche Gesellschaft für Hämatologie und
+     <br/>
+     Medizinische Onkologie e.V.<br/>
+     Alexanderplatz 1<br/>
+     10178 Berlin</p>
+
+  <p>Geschäftsführender Vorsitzender: Prof. Dr.  med. Mathias Freund</p>
+
+  <p>Telefon: +49 (0)30 27 87 60 89 - 0<br/>
+     Telefax: +49 (0)30 27 87 60 89 - 18</p>
+
+   <p><a href="mailto:info@dgho.de">info@dgho.de</a>
+       <br/>
+       <a href="http://www.dgho.de">www.dgho.de</a>
+   </p>
+
+  <div class="preface-item">
+    Ansprechpartner
+  </div>
+
+  <p>Prof. Dr. med. Bernhard Wörmann<br/>
+     Medizinischer Leiter</p>
+
+  <div class="preface-item">
+    Quelle
+  </div>
+
+  <p><a href="http://www.onkopedia.com">www.onkopedia.com</a></p>
+
+  <div>
+    <p class="preface-footer">Die Empfehlungen der DGHO
+    für die Diagnostik und Therapie hämatologischer
+    und onkologischer Erkrankungen entbinden die
+    verantwortliche Ärztin / den verantwortlichen Arzt
+    nicht davon, notwendige Diagnostik, Indikationen,
+    Kontraindikationen und Dosierungen im Einzelfall zu
+    überprüfen! Die DGHO übernimmt für
+    Empfehlungen keine Gewähr.</p>
+  </div>
+</section>
