@@ -107,6 +107,7 @@ lesson-running-elements            Y             Y             N
 lesson-tables                      Y             Y             N
 lesson-xml                         Y             Y             N
 lesson-char-js                     Y             N             N
+lesson-flotr2-js                   Y             N             N
 ============================   ==========     =========   ===========
 
 
