@@ -130,8 +130,15 @@ Docraptor
 +++++++++
 
 * Cloud-based conversion service running on top of PrinceXML
-* Website: https://docraptor.com/signup
+* Website: https://docraptor.com/
 * Pricing: https://docraptor.com/signup
+
+RenderX Cloudformatter
+++++++++++++++++++++++
+
+* Cloud-based conversion service
+* Website: http://www.renderx.com/tools/cloudformatter.html
+* Status: unknown (website partly dysfunctional)
 
 
 Basic converter usage
