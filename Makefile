@@ -1,10 +1,10 @@
 all: pdfreactor prince vivliostyle
 
 pdfreactor:
-	pdfreactor -v index.html pdfreactor.pdf
+	pdfreactor -v -j index.html pdfreactor.pdf
 
 prince: 
-	prince -v index.html prince.pdf
+	prince -v --javascript index.html prince.pdf
 
 vivliostyle: 
 	vivliostyle-formatter index.html 

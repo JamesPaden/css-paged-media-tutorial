@@ -106,6 +106,7 @@ lesson-right-to-left               Y             Y             Y
 lesson-running-elements            Y             Y             N
 lesson-tables                      Y             Y             N
 lesson-xml                         Y             Y             N
+lesson-char-js                     Y             N             N
 ============================   ==========     =========   ===========
 
 
