@@ -57,6 +57,51 @@ For the moment it is unclear which parts of the CSS Paged Media standard are or
 will be supported due to the beta status of the software and the lack of decent
 documentation.
 
+PDF converters in detail
+------------------------
+
+PDFreactor
+++++++++++
+
+* current version: 8
+* Website: www.pdfreactor.com
+* Pricing: 
+
+  * 4 CPU server license: 2950 USD
+  * personal non-commercial license: free
+
+Prince
+++++++
+
+* current version: 10
+* Website: www.princexml.com
+* Pricing: 
+
+  * 4 CPU server license:    3800 USD
+  * academic server license: 1900 USD
+  * personal desktop license: 495 USD
+
+
+Vivliostyle Formatter
++++++++++++++++++++++
+
+* current version: unreleased/beta
+* Website: www.vivliostyle.com
+* Pricing: unknown so far
+
+
+Antennahouse CSS Formatter
+++++++++++++++++++++++++++
+
+* current version: 6.2
+* Website: www.antennahouse.com
+* Pricing:
+    * Server license with one CPU: 5000 USD, additional CPU: 4000 USD each
+    * Standalone license: 1250 USD
+    * SVG option: 2000 USD
+    * MathML option: 500 USD
+    * Barcode option: 1500 USD
+
 
 Basic converter usage
 ---------------------
