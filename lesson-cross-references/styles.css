@@ -1,0 +1,43 @@
+@page {
+    size: a5;
+    margin: 2cm;
+
+    counter-increment: page;
+        @bottom-right{
+            content: counter(page);
+    }
+}
+
+
+.title {
+    font-size: 2em;
+}
+
+h1, p {
+    font-family: Helvetica, Sans-Serif;
+}
+
+
+h1 {
+    font-size: 1.6em;
+    color: blue;    
+    counter-increment: chapterCounter;
+    page-break-before: always;
+}
+
+
+h1::before{
+    content: counter(chapterCounter, upper-roman) " ";
+}
+
+p {
+    font-family: Arial; 
+    font-size: 20px;
+    color: red;
+}
+
+a[href]::after{
+    content: " (Chapter " target-counter(attr(href), chapterCounter, upper-roman) 
+                " on page " target-counter(attr(href), page) ")";
+    color: green;
+}
