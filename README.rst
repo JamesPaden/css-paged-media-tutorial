@@ -105,6 +105,16 @@ Antennahouse CSS Formatter
   * Barcode option: 1500 USD
 
 
+Weasyprint
+++++++++++
+
+* current version: 0.24
+* Website: www.weasyprint.org
+* Princing:
+
+  * free, open-source
+
+
 Basic converter usage
 ---------------------
 
