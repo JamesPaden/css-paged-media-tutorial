@@ -108,10 +108,12 @@ lesson-tables                      Y             Y             N
 lesson-xml                         Y             Y             N
 lesson-char-js                     Y             N             N
 lesson-flotr2-js                   Y             N             N
+lesson-guideline                   Y            Y/N           Y/N
 ============================   ==========     =========   ===========
 
 **Y** = Yes, renders as expected without errors
 **N** = No, does not render properly
+**Y/N** = Renders partly as expected 
 
 Structure of the tutorial
 -------------------------

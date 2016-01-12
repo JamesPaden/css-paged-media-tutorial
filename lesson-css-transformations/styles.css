@@ -2,6 +2,27 @@
     size: a4;
 }
 
+.sample {
+    display: block;
+    width: 50%;
+    border: 1px solid blue;
+    padding: 1em;
+    page-break-after: always;
+}
+
+.rotate-90 {
+    transform: rotate(90deg);
+}
+
+.rotate-180 {
+    transform: rotate(180deg);
+}
+
+.rotate-270 {
+    transform: rotate(270deg);
+}
+
+
 .tux {
     width: 5cm;
     height: 5cm;
