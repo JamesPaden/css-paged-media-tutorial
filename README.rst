@@ -199,32 +199,6 @@ lesson-guideline                   Y            Y/N           Y/N
 **N** = No, does not render properly
 **Y/N** = Renders partly as expected 
 
-Structure of the tutorial
--------------------------
-
-Lesson Basic
-++++++++++++
-
-In the first lesson you will learn
-
-- the basic usage of the converter tools
-- how to set the PDF page size
-- to apply basic styles and CSS formatting options
-
-
-Lession `Guideline`
-+++++++++++++++++++
-
-In this advanced lesson we will use a real-world document
-(a medical guideline with several chapters, tables and images)
-for live coding. We will use the content to show you 
-
-- pagination
-- page break rules
-- counters
-- running tables
-- image formatting
-
 Author
 ------
 
