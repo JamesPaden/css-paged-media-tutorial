@@ -1,0 +1,42 @@
+@font-face {
+    font-family: "DejaVu Sans";
+    src: url("DejaVuSans-Bold.ttf");
+    font-style: normal;
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: "DejaVu Sans";
+    src: url("DejaVuSans.ttf");
+    font-style: normal;
+    font-weight: normal;
+}
+
+/* Helvetica fake font for PDF/SVG */
+@font-face {
+    font-family: "Helvetica";
+    src: url("SWANSE__.TTF");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "Helvetica";
+    src: url("SWANSE_B.TTF");
+    font-style: normal;
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: "Helvetica";
+    src: url("SWANSE_I.TTF");
+    font-style: italic;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "Helvetica";
+    src: url("SWANSEBI.TTF");
+    font-style: italic;
+    font-weight: bold;
+}

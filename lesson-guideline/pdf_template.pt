@@ -1,0 +1,22 @@
+<html>
+    <head>
+        <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+        <link rel="stylesheet" href="onkopedia.css" />
+        <tal:loop repeat="name options/styles">
+            <link rel="stylesheet" tal:attributes="href name" />
+        </tal:loop>
+        <script type="text/javascript" src="onkopedia.js"></script>
+    </head>
+    <body onload="fixes()"
+          tal:attributes="lang options/metadata/language">
+
+        <div tal:condition="options/coverfront | nothing"
+             tal:content="structure options/coverfront"
+        />
+
+        <div id="main-content">
+            <div tal:replace="structure options/body" />
+        </div>
+
+    </body>
+</html>

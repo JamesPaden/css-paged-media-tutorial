@@ -1,0 +1,28 @@
+li p,
+p.ListParagraph {
+    padding: 0;
+    margin: 0;
+}
+
+li {
+    margin-bottom: 0.5em;
+}
+
+
+lititem {
+    display: inline-block;
+}
+
+lititem span, 
+lititem p {
+    display: inline;
+}
+
+
+lititem .list-item-number {
+    padding-right: 1em;
+}
+
+lititem .list-item-number:after {
+    content: ")";
+}

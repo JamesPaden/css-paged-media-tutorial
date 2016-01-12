@@ -1,0 +1,92 @@
+<section id="cover-front" 
+    tal:define="societies python: options['metadata']['societies'] or ()">
+
+    <div id="cover">
+      <div id="header">
+        <div class="onkopedia"><img src="onkopedia-logo.png" alt="Onkopedia Logo" /></div>
+        <div class="onkopedia-leitlinien"><img src="onkopedia-leitlinien.png" alt="Onkopedia Leitlinien"/></div>
+      </div>
+
+      <div id="cover-title" tal:content="options/metadata/title">
+        Infekt&#246;se Komplikationen nach Hochdosistherapie und
+        autologer Stammzelltransplantation
+      </div>
+
+      <div id="cover-subtitle" tal:condition="python: options['metadata']['documenttype'] == u'guideline'">
+        Guideline
+      </div>
+
+      <div tal:attributes="class python: societies and 'infos' or 'infos-nologo'">
+        Recommendations from the society for diagnosis and therapy of
+        haematological and oncological diseases
+      </div>
+
+      <div id="footer" tal:condition="societies">
+          <img tal:condition="python: 'dgho' in societies"   id="dgho-logo" src="dgho-logo.svg" alt="DGHO Logo"/>
+          <img tal:condition="python: 'oegho' in societies"  id="oegho-logo" src="oegho-logo.svg" alt="OEGHO Logo" />
+          <img tal:condition="python: 'sgmo' in societies"   id="sgmo-logo" src="sgmo-logo.svg" alt="SGMO Logo" />
+          <img tal:condition="python: 'sghssh' in societies" id="sghssh-logo" src="sghssh-logo.svg" alt="SGHSSH Logo" />
+          <img tal:condition="python: 'dgti' in societies"   id="dgti-logo" src="dgti-logo.png" alt="DGTI Logo" />
+          <img tal:condition="python: 'gpoh' in societies"   id="gpoh-logo" src="gpoh-logo.svg" alt="GPOH Logo" />
+          <img tal:condition="python: 'cam-cancer' in societies"   id="cam-cancer-logo" src="cam-cancer-logo.svg" alt="CAM Cancer Logo" />
+          <img tal:condition="python: 'kokon' in societies"   id="kokon-logo" src="kokon-logo.svg" alt="Kokon Logo" />
+      </div>
+
+      <!--
+          <div class="image-resolutions-not-ok" tal:condition="not: options/image_resolutions_ok">
+              PLEASE CHECK IMAGE RESOLUTIONS
+          </div>
+      -->
+
+    </div><!--  Seite 2 -->
+
+    <div class="preface">
+      <div class="preface-item">
+        Publisher
+      </div>
+
+      <p>DGHO Deutsche Gesellschaft f&#252;r H&#228;matologie und
+      <br/>
+      Medizinische Onkologie e.V.<br>
+      Alexanderplatz 1<br>
+      D-10178 Berlin</p>
+
+      <p>Executive chairman: Prof. Dr.
+      med. Mathias Freund</p>
+
+      <p>Phone: +49 (0)30 27 87 60 89 - 0<br>
+      Fax: +49 (0)30 27 87 60 89 - 18</p>
+
+       <p><a href="mailto:info@dgho.de">info@dgho.de</a>
+           <br/>
+           <a href="http://www.dgho.de">www.dgho.de</a>
+       </p>
+      <div class="preface-item">
+        Contact person
+      </div>
+
+      <p>Prof. Dr. med. Bernhard W&#246;rmann<br>
+      Medical superintendent</p>
+
+      <div class="preface-item">
+        Source
+      </div>
+
+      <p><a href="http://www.onkopedia-guidelines.info">www.onkopedia-guidelines.info<a/></p>
+
+      <div>
+        <p class="preface-footer">
+            The information of the DGHO Onkopedia Web Site is not intended or implied to be
+            a substitute for professional medical advice or medical care. The advice of a
+            medical professional should always be sought prior to commencing any form of
+            medical treatment. To this end, all component information contained within the
+            web site is done so for solely educational purposes. DGHO Deutsche Gesellschaft
+            für Hämatologie und Onkologie and all of its staff, agents and members disclaim
+            any and all warranties and representations with regards to the information
+            contained on the DGHO Web Site. This includes any implied warranties and
+            conditions that may be derived from the aforementioned web site information. 
+        </p>
+      </div>
+    </div>
+
+</section>

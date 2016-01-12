@@ -105,14 +105,40 @@ Antennahouse CSS Formatter
   * Barcode option: 1500 USD
 
 
+pdfChip 
++++++++
+
+* current version. 1.1
+* Website: https://www.callassoftware.com/en/products/pdfchip
+* Pricing: the various pdfChip versions are limited by 
+
+  * pdfChip S (1000 pages per hour, 25 pages per document, barcode support limited): 5.000 EUR                               $
+  * pdfChip M (5000 pages per hour, 250 pages per document): 10.000 EUR
+  * pdfChip L (25000 pages per hour, 1500 pages per document): 15.000 EUR
+  * pdfChip XL/Enterprise (unlimited):  25.000 EUR
+
 Weasyprint
 ++++++++++
 
 * current version: 0.24
 * Website: www.weasyprint.org
-* Princing:
+* Pricing:
 
   * free, open-source
+
+Docraptor
++++++++++
+
+* Cloud-based conversion service running on top of PrinceXML
+* Website: https://docraptor.com/
+* Pricing: https://docraptor.com/signup
+
+RenderX Cloudformatter
+++++++++++++++++++++++
+
+* Cloud-based conversion service
+* Website: http://www.renderx.com/tools/cloudformatter.html
+* Status: unknown (website partly dysfunctional)
 
 
 Basic converter usage
@@ -172,32 +198,6 @@ lesson-guideline                   Y            Y/N           Y/N
 **Y** = Yes, renders as expected without errors
 **N** = No, does not render properly
 **Y/N** = Renders partly as expected 
-
-Structure of the tutorial
--------------------------
-
-Lesson Basic
-++++++++++++
-
-In the first lesson you will learn
-
-- the basic usage of the converter tools
-- how to set the PDF page size
-- to apply basic styles and CSS formatting options
-
-
-Lession `Guideline`
-+++++++++++++++++++
-
-In this advanced lesson we will use a real-world document
-(a medical guideline with several chapters, tables and images)
-for live coding. We will use the content to show you 
-
-- pagination
-- page break rules
-- counters
-- running tables
-- image formatting
 
 Author
 ------

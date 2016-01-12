@@ -1,0 +1,35 @@
+section#toc {
+    page-break-after: always;
+    page: toc;
+}
+
+section#toc a {
+    color: black;
+}
+
+section#toc a::after {
+    content: leader(dotted) " " target-counter(ro-attr(href url), page);
+}
+
+section#toc ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+section#toc #toc-title {
+    font-weight: bold;
+    font-size: 2em;
+}
+
+section#toc a.level-1 {
+    font-weight: bold;
+}
+
+
+a[href] {
+    -ro-link: ro-attr(href);
+}
+
+a[name] {
+    -ro-anchor: ro-attr(name ro-ident);
+}
