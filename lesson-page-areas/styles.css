@@ -73,8 +73,8 @@
     }
 
 
-    size: A4 landscape;
-    -ro-media-size: SRA4 landscape;
+    /* PDFreactor (from brochure/styles.css) */
+    -ro-media-size: A4;
     -ro-bleed-width: 3mm;
     -ro-crop-size: trim;
     
@@ -90,6 +90,8 @@
     -ro-colorbar-right-bottom: cmyk(0%, 0%, 25%, 0%) cmyk(0%, 0%, 50%, 0%) cmyk(0%, 0%, 75%, 0%) cmyk(0%, 0%, 100%, 0%)
                                cmyk(0%, 0%, 0%, 25%) cmyk(0%, 0%, 0%, 50%) cmyk(0%, 0%, 0%, 75%) cmyk(0%, 0%, 0%, 100%);
 
+
+    /* PrinceXML */
     prince-bleed: 10mm;
     marks: crop cross;
 
