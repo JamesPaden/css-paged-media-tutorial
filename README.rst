@@ -97,7 +97,8 @@ Antennahouse CSS Formatter
 * Website: www.antennahouse.com
 * Pricing:
 
-  * Server license with one CPU: 5000 USD, additional CPU: 4000 USD each
+  * Server license with one CPU: 5000 USD
+  * each additional CPU: 4000 USD 
   * Standalone license: 1250 USD
   * SVG option: 2000 USD
   * MathML option: 500 USD
@@ -128,6 +129,7 @@ Supplementary material
 
 - https://www.youtube.com/watch?v=H-5_b9m3p1k
 - http://de.slideshare.net/ajung/css-paged-media-a-review-of-tools-and-techniques
+- Book "Print CSS. Das CSS paged media Modul" (German only): http://www.pagina-online.de/unternehmen/publikationen/printcss/
 
 
 Compatibility matrix
