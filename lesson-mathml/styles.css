@@ -1,0 +1,11 @@
+@page {
+    size: a4;
+    margin: 2cm;
+}
+
+math {
+    border: 1px solid blue;
+    padding: 1em;
+    margin-bottom: 2em;
+    display: block;
+}
