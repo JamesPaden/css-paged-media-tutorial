@@ -1,5 +1,6 @@
+@import url("../styles/a4-landscape.css");
+
 @page {
-    size: a4 landscape;
     margin: 0;
     padding: 0;
 }

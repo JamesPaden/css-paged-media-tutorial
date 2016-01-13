@@ -2,7 +2,7 @@
 
 @page {
     counter-increment: page;
-        @bottom-right{
+    @bottom-right{
             content: counter(page);
     }
 }

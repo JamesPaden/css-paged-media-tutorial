@@ -1,6 +1,6 @@
+@import url("../styles/a4.css");
+
 @page {
-    size: a4;
-    margin: 2cm;
     border: 1px solid blue;
     font-size: 8pt;
 

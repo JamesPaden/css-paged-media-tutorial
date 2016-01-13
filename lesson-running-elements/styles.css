@@ -1,7 +1,4 @@
-@page {
-    size: a5;
-    margin: 1cm;
-}
+@import url("../styles/a5.css");
 
 h1 {
     position: running(header1);
