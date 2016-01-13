@@ -1,7 +1,4 @@
-@page {
-    size: a4;
-    margin: 4cm;
-}
+@import url("../styles/a5.css");
 
 p {
     text-align: justify;

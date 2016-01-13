@@ -1,7 +1,4 @@
-@page {
-    size: a4 landscape;
-    margin: 1cm;
-}
+@import url("../styles/a4-landscape.css");
 
 div.multicol {
     margin-bottom: 2em;

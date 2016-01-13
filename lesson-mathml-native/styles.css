@@ -1,7 +1,4 @@
-@page {
-    size: a4;
-    margin: 2cm;
-}
+@import url("../styles/a4.css");
 
 math {
     border: 1px solid blue;

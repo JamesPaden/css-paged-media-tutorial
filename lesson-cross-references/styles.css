@@ -1,7 +1,6 @@
-@page {
-    size: a5;
-    margin: 2cm;
+@import url("../styles/a5.css");
 
+@page {
     counter-increment: page;
         @bottom-right{
             content: counter(page);
