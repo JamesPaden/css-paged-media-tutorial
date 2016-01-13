@@ -1,7 +1,4 @@
-@page {
-    size: a5;
-    margin: 2cm;
-}
+@import url("../styles/a4.css");
 
 p {
     font-family: Arial; 

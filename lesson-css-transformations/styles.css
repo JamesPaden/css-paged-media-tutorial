@@ -1,6 +1,4 @@
-@page {
-    size: a4;
-}
+@import url("../styles/a4.css");
 
 .sample {
     display: block;
