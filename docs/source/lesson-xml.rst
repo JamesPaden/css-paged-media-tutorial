@@ -1,0 +1,21 @@
+Lesson: lesson-xml
+=====================================================
+
+Repository files
+++++++++++++++++
+
+- https://github.com/zopyx/css-paged-media-tutorial/tree/master/lesson-xml
+
+Stylesheet
+++++++++++
+
+.. literalinclude:: ../../lesson-xml/styles.css
+  :language: css
+  :linenos:
+
+HTML input
+++++++++++
+
+.. literalinclude:: ../../lesson-xml/index.html
+  :language: html
+  :linenos:

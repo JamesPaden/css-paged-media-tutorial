@@ -16,3 +16,5 @@ with open('source/lessons.rst', 'wb') as fp_out:
         txt = open('lesson-template.rst', 'rb').read()
         txt = txt.replace('lesson-basic', name)
         open('source/{}.rst'.format(name), 'wb').write(txt)
+        os.system('git add source/{}.rst'.format(name))
+

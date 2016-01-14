@@ -2,7 +2,6 @@ Lessons
 +++++++
 
 .. toctree::
-
   lesson-basic.rst
   lesson-chapter-numbering.rst
   lesson-chart-js.rst

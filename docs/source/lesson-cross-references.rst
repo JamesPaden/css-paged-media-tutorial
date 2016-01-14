@@ -1,0 +1,21 @@
+Lesson: lesson-cross-references
+=====================================================
+
+Repository files
+++++++++++++++++
+
+- https://github.com/zopyx/css-paged-media-tutorial/tree/master/lesson-cross-references
+
+Stylesheet
+++++++++++
+
+.. literalinclude:: ../../lesson-cross-references/styles.css
+  :language: css
+  :linenos:
+
+HTML input
+++++++++++
+
+.. literalinclude:: ../../lesson-cross-references/index.html
+  :language: html
+  :linenos:

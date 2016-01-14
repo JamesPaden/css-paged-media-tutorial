@@ -1,0 +1,21 @@
+Lesson: lesson-chapter-numbering
+=====================================================
+
+Repository files
+++++++++++++++++
+
+- https://github.com/zopyx/css-paged-media-tutorial/tree/master/lesson-chapter-numbering
+
+Stylesheet
+++++++++++
+
+.. literalinclude:: ../../lesson-chapter-numbering/styles.css
+  :language: css
+  :linenos:
+
+HTML input
+++++++++++
+
+.. literalinclude:: ../../lesson-chapter-numbering/index.html
+  :language: html
+  :linenos:
