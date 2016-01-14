@@ -8,9 +8,14 @@ div.multicol {
 }
 
 
+h1 {
+    column-span: all;
+}
+
 .cols-4 {
     column-count: 4;
     column-gap: 1cm;
+    column-role: 4px outset #ff0ff;
 }
 
 .cols-3 {
