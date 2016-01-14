@@ -22,3 +22,11 @@ HTML input
 .. literalinclude:: ../../lesson-multi-columns/index.html
   :language: html
   :linenos:
+
+Generated PDF Output
+++++++++++++++++++++
+
+- `PDFreactor <../../../lesson-multi-columns/pdfreactor.pdf>`_
+- `PrinceXML <../../../lesson-multi-columns/prince.pdf>`_
+- `Vivliostyle <../../../lesson-multi-columns/vivliostyle-output.pdf>`_
+- `Antennahouse <../../../lesson-multi-columns/antennahouse.pdf>`_

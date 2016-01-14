@@ -22,3 +22,11 @@ HTML input
 .. literalinclude:: ../../lesson-right-to-left/index.html
   :language: html
   :linenos:
+
+Generated PDF Output
+++++++++++++++++++++
+
+- `PDFreactor <../../../lesson-right-to-left/pdfreactor.pdf>`_
+- `PrinceXML <../../../lesson-right-to-left/prince.pdf>`_
+- `Vivliostyle <../../../lesson-right-to-left/vivliostyle-output.pdf>`_
+- `Antennahouse <../../../lesson-right-to-left/antennahouse.pdf>`_

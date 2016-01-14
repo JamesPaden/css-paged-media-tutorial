@@ -22,3 +22,11 @@ HTML input
 .. literalinclude:: ../../lesson-cross-references/index.html
   :language: html
   :linenos:
+
+Generated PDF Output
+++++++++++++++++++++
+
+- `PDFreactor <../../../lesson-cross-references/pdfreactor.pdf>`_
+- `PrinceXML <../../../lesson-cross-references/prince.pdf>`_
+- `Vivliostyle <../../../lesson-cross-references/vivliostyle-output.pdf>`_
+- `Antennahouse <../../../lesson-cross-references/antennahouse.pdf>`_

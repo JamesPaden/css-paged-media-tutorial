@@ -22,3 +22,11 @@ HTML input
 .. literalinclude:: ../../lesson-chapter-numbering/index.html
   :language: html
   :linenos:
+
+Generated PDF Output
+++++++++++++++++++++
+
+- `PDFreactor <../../../lesson-chapter-numbering/pdfreactor.pdf>`_
+- `PrinceXML <../../../lesson-chapter-numbering/prince.pdf>`_
+- `Vivliostyle <../../../lesson-chapter-numbering/vivliostyle-output.pdf>`_
+- `Antennahouse <../../../lesson-chapter-numbering/antennahouse.pdf>`_

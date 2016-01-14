@@ -22,3 +22,11 @@ HTML input
 .. literalinclude:: ../../lesson-hyphenation/index.html
   :language: html
   :linenos:
+
+Generated PDF Output
+++++++++++++++++++++
+
+- `PDFreactor <../../../lesson-hyphenation/pdfreactor.pdf>`_
+- `PrinceXML <../../../lesson-hyphenation/prince.pdf>`_
+- `Vivliostyle <../../../lesson-hyphenation/vivliostyle-output.pdf>`_
+- `Antennahouse <../../../lesson-hyphenation/antennahouse.pdf>`_

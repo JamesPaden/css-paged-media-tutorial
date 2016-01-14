@@ -22,3 +22,11 @@ HTML input
 .. literalinclude:: ../../lesson-basic/index.html
   :language: html
   :linenos:
+
+Generated PDF Output
+++++++++++++++++++++
+
+- `PDFreactor <../../../lesson-basic/pdfreactor.pdf>`_
+- `PrinceXML <../../../lesson-basic/prince.pdf>`_
+- `Vivliostyle <../../../lesson-basic/vivliostyle-output.pdf>`_
+- `Antennahouse <../../../lesson-basic/antennahouse.pdf>`_
