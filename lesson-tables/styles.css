@@ -71,7 +71,7 @@ table.complex th.sect {
 
 /* Long table */
 table#long-table {
-    border: 1 solid grey;
+    border: 1px solid grey;
     border-collapse: collapse;
 }
 

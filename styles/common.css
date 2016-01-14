@@ -1,18 +1,45 @@
+@font-face {
+    font-family: Lato;
+    src: url("Lato2OFL/Lato-Regular.ttf");
+      
+}
+
+@font-face {
+    font-family: Lato;
+    src: url("Lato2OFL/Lato-Bold.ttf");
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: Lato;
+    src: url("Lato2OFL/Lato-Italic.ttf");
+    font-style: italic;
+}
+
+@font-face {
+    font-family: Lato;
+    src: url("Lato2OFL/Lato-BoldItalic.ttf");
+    font-style: italic;
+    font-weight: bold;
+}
+
+
+
 @page {
     @bottom-center {
         content: "https://github.com/zopyx/css-paged-media-tutorial";
         font-size: 0.8em;
         color: #aaa;
-        font-family: Sans-Serif;
+        font-family: Lato;
     }
     @top-center {
         content: "CSS Paged Media Tutorial by Andreas Jung";
         font-size: 0.8em;
         color: #aaa;
-        font-family: Sans-Serif;
+        font-family: Lato;
     }
 }
 
 body {
-    font-family: Sans-Serif;
+    font-family: Lato;
 }
