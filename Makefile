@@ -9,6 +9,9 @@ prince:
 vivliostyle: 
 	vivliostyle-formatter index.html 
 
+antennahouse:
+	run.sh -d  index.html -o antennahouse.pdf
+
 clean:
 	find . -name \*.pdf -exec rm {} \;
 

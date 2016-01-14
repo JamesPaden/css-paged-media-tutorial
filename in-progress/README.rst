@@ -147,7 +147,12 @@ Antennahouse CSS Formatter
 
   * Perhaps the formatter with the best quality and typographical features
     (in fact it is based on their own XSL-FO converter Antennahouse V 6.2)
-  * high price
+  * Absurd high prices (especially the server license with multiple CPUs)
+  * Mixed feelings about the documentation (complete but partly unstructured
+    and confusing)
+  * Not convinced by the level and effectivness of their support (but only little experience with the AH support)
+  * Unfriendly license policy for evaluating or prototyping purposes
+  * Antennahouse does not count as "friendly" company to me
 
 pdfChip 
 +++++++
