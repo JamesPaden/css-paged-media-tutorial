@@ -1,5 +1,11 @@
 @page {
     @bottom-center {
+        content: "https://github.com/zopyx/css-paged-media-tutorial";
+        font-size: 0.8em;
+        color: #aaa;
+        font-family: Sans-Serif;
+    }
+    @top-center {
         content: "CSS Paged Media Tutorial by Andreas Jung";
         font-size: 0.8em;
         color: #aaa;
@@ -7,6 +13,6 @@
     }
 }
 
-* {
+body {
     font-family: Sans-Serif;
 }
