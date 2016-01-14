@@ -1,0 +1,12 @@
+@page {
+    @bottom-center {
+        content: "CSS Paged Media Tutorial by Andreas Jung";
+        font-size: 0.8em;
+        color: #aaa;
+        font-family: Sans-Serif;
+    }
+}
+
+* {
+    font-family: Sans-Serif;
+}
