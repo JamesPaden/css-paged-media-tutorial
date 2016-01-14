@@ -71,6 +71,7 @@ PDFreactor
 
 * current version: 8
 * Website: www.pdfreactor.com
+* Sample documents: http://www.pdfreactor.com/samples/
 * Pricing: 
 
   * 4 CPU server license: 2950 USD
@@ -89,6 +90,7 @@ PrinceXML
 
 * current version: 10
 * Website: www.princexml.com
+* Sample documents: http://www.princexml.com/samples
 * Pricing: 
 
   * 4 CPU server license:    3800 USD
@@ -108,6 +110,7 @@ Vivliostyle Formatter
 
 * current version: unreleased/beta
 * Website: www.vivliostyle.com
+* Samples: http://www.vivliostyle.com/en/sample/
 * Pricing: unknown so far
 
 * Personal rating:
@@ -206,6 +209,7 @@ Docraptor
 
 * Cloud-based conversion service running on top of PrinceXML
 * Website: https://docraptor.com/
+* Samples: https://docraptor.com/samples
 * Pricing: https://docraptor.com/signup
 
 * Personal rating:
