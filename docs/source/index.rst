@@ -11,6 +11,7 @@ Contents:
 .. toctree::
    intro.rst
    tools.rst
+   lessons.rst
    compliance.rst
    :maxdepth: 2
 
