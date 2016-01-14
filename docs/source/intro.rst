@@ -77,7 +77,7 @@ Supplementary material
 
 - https://www.youtube.com/watch?v=H-5_b9m3p1k
 - http://de.slideshare.net/ajung/css-paged-media-a-review-of-tools-and-techniques
-- Book **"Print CSS. Das CSS paged media Modul"** (German only): http://www.pagina-online.de/unternehmen/publikationen/printcss/
+- `Print CSS. Das CSS paged media Modul <http://www.pagina-online.de/unternehmen/publikationen/printcss />`_ (German only)
 
 Source code
 -----------
