@@ -12,7 +12,7 @@ PDFreactor
 ++++++++++
 
 * current version: 8
-* Website: www.pdfreactor.com
+* Website: http://www.pdfreactor.com
 * Sample documents: http://www.pdfreactor.com/samples/
 * Pricing: 
 
@@ -31,7 +31,7 @@ PrinceXML
 +++++++++
 
 * current version: 10
-* Website: www.princexml.com
+* Website: http://www.princexml.com
 * Sample documents: http://www.princexml.com/samples
 * Pricing: 
 
@@ -51,7 +51,7 @@ Vivliostyle Formatter
 +++++++++++++++++++++
 
 * current version: unreleased/beta
-* Website: www.vivliostyle.com
+* Website: http://www.vivliostyle.com
 * Samples: http://www.vivliostyle.com/en/sample/
 * Pricing: unknown so far
 
@@ -75,7 +75,7 @@ Antennahouse CSS Formatter
 ++++++++++++++++++++++++++
 
 * current version: 6.2
-* Website: www.antennahouse.com
+* Website: http://www.antennahouse.com
 * Pricing:
 
   * Server license with one CPU: 5000 USD
@@ -126,7 +126,7 @@ Weasyprint
 ++++++++++
 
 * current version: 0.24
-* Website: www.weasyprint.org
+* Website: http://www.weasyprint.org
 * Pricing:
 
   * free, open-source
