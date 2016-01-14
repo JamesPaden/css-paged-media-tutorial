@@ -1,6 +1,9 @@
 Lesson: lesson-running-elements
 =====================================================
 
+.. include:: ../../lesson-running-elements/README.rst
+
+
 Repository files
 ++++++++++++++++
 

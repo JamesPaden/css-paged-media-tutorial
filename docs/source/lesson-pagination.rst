@@ -1,6 +1,9 @@
 Lesson: lesson-pagination
 =====================================================
 
+.. include:: ../../lesson-pagination/README.rst
+
+
 Repository files
 ++++++++++++++++
 

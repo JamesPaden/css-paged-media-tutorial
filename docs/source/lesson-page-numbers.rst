@@ -1,6 +1,9 @@
 Lesson: lesson-page-numbers
 =====================================================
 
+.. include:: ../../lesson-page-numbers/README.rst
+
+
 Repository files
 ++++++++++++++++
 

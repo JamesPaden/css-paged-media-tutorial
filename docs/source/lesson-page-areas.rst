@@ -1,6 +1,9 @@
 Lesson: lesson-page-areas
 =====================================================
 
+.. include:: ../../lesson-page-areas/README.rst
+
+
 Repository files
 ++++++++++++++++
 

@@ -1,6 +1,9 @@
 Lesson: lesson-mathml-native
 =====================================================
 
+.. include:: ../../lesson-mathml-native/README.rst
+
+
 Repository files
 ++++++++++++++++
 

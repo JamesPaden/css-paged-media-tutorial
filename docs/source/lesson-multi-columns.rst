@@ -1,6 +1,9 @@
 Lesson: lesson-multi-columns
 =====================================================
 
+.. include:: ../../lesson-multi-columns/README.rst
+
+
 Repository files
 ++++++++++++++++
 

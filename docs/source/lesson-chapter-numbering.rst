@@ -1,6 +1,9 @@
 Lesson: lesson-chapter-numbering
 =====================================================
 
+.. include:: ../../lesson-chapter-numbering/README.rst
+
+
 Repository files
 ++++++++++++++++
 

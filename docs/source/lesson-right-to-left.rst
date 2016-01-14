@@ -1,6 +1,9 @@
 Lesson: lesson-right-to-left
 =====================================================
 
+.. include:: ../../lesson-right-to-left/README.rst
+
+
 Repository files
 ++++++++++++++++
 

@@ -1,6 +1,9 @@
 Lesson: lesson-fonts
 =====================================================
 
+.. include:: ../../lesson-fonts/README.rst
+
+
 Repository files
 ++++++++++++++++
 

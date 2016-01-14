@@ -1,1 +1,1 @@
-This section will show some basic CSS formatting features
+This section will show some basic CSS formatting features.

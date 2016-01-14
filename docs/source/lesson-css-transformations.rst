@@ -1,6 +1,9 @@
 Lesson: lesson-css-transformations
 =====================================================
 
+.. include:: ../../lesson-css-transformations/README.rst
+
+
 Repository files
 ++++++++++++++++
 

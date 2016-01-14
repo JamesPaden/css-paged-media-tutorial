@@ -1,6 +1,9 @@
 Lesson: lesson-flotr2-js
 =====================================================
 
+.. include:: ../../lesson-flotr2-js/README.rst
+
+
 Repository files
 ++++++++++++++++
 

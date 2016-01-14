@@ -1,6 +1,9 @@
 Lesson: lesson-table-of-content-leaders
 =====================================================
 
+.. include:: ../../lesson-table-of-content-leaders/README.rst
+
+
 Repository files
 ++++++++++++++++
 

@@ -1,6 +1,9 @@
 Lesson: lesson-xml
 =====================================================
 
+.. include:: ../../lesson-xml/README.rst
+
+
 Repository files
 ++++++++++++++++
 

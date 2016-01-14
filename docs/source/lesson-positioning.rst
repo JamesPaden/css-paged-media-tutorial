@@ -1,6 +1,9 @@
 Lesson: lesson-positioning
 =====================================================
 
+.. include:: ../../lesson-positioning/README.rst
+
+
 Repository files
 ++++++++++++++++
 

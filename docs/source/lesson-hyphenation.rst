@@ -1,6 +1,9 @@
 Lesson: lesson-hyphenation
 =====================================================
 
+.. include:: ../../lesson-hyphenation/README.rst
+
+
 Repository files
 ++++++++++++++++
 

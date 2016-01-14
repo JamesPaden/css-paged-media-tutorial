@@ -1,6 +1,9 @@
 Lesson: lesson-tables
 =====================================================
 
+.. include:: ../../lesson-tables/README.rst
+
+
 Repository files
 ++++++++++++++++
 

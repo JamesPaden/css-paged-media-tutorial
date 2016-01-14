@@ -1,6 +1,9 @@
 Lesson: lesson-basic
 =====================================================
 
+.. include:: ../../lesson-basic/README.rst
+
+
 Repository files
 ++++++++++++++++
 

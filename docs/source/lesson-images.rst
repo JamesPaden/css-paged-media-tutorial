@@ -1,6 +1,9 @@
 Lesson: lesson-images
 =====================================================
 
+.. include:: ../../lesson-images/README.rst
+
+
 Repository files
 ++++++++++++++++
 

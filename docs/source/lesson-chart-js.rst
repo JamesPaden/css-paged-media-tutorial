@@ -1,6 +1,9 @@
 Lesson: lesson-chart-js
 =====================================================
 
+.. include:: ../../lesson-chart-js/README.rst
+
+
 Repository files
 ++++++++++++++++
 

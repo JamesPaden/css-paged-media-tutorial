@@ -1,6 +1,9 @@
 Lesson: lesson-guideline
 =====================================================
 
+.. include:: ../../lesson-guideline/README.rst
+
+
 Repository files
 ++++++++++++++++
 

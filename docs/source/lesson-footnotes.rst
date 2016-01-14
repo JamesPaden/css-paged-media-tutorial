@@ -1,6 +1,9 @@
 Lesson: lesson-footnotes
 =====================================================
 
+.. include:: ../../lesson-footnotes/README.rst
+
+
 Repository files
 ++++++++++++++++
 

@@ -1,6 +1,9 @@
 Lesson: lesson-cross-references
 =====================================================
 
+.. include:: ../../lesson-cross-references/README.rst
+
+
 Repository files
 ++++++++++++++++
 
