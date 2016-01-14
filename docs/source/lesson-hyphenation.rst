@@ -26,7 +26,7 @@ HTML input
 Generated PDF Output
 ++++++++++++++++++++
 
-- `PDFreactor <../../../lesson-hyphenation/pdfreactor.pdf>`_
-- `PrinceXML <../../../lesson-hyphenation/prince.pdf>`_
-- `Vivliostyle <../../../lesson-hyphenation/vivliostyle-output.pdf>`_
-- `Antennahouse <../../../lesson-hyphenation/antennahouse.pdf>`_
+- `PDFreactor <https://github.com/zopyx/css-paged-media-tutorial/tree/master/lesson-hyphenation/pdfreactor.pdf>`_
+- `PrinceXML <https://github.com/zopyx/css-paged-media-tutorial/tree/master/lesson-hyphenation/prince.pdf>`_
+- `Vivliostyle <https://github.com/zopyx/css-paged-media-tutorial/tree/master/lesson-hyphenation/vivliostyle-output.pdf>`_
+- `Antennahouse <https://github.com/zopyx/css-paged-media-tutorial/tree/master/lesson-hyphenation/antennahouse.pdf>`_

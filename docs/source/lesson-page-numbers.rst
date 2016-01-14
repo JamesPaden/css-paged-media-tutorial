@@ -26,7 +26,7 @@ HTML input
 Generated PDF Output
 ++++++++++++++++++++
 
-- `PDFreactor <../../../lesson-page-numbers/pdfreactor.pdf>`_
-- `PrinceXML <../../../lesson-page-numbers/prince.pdf>`_
-- `Vivliostyle <../../../lesson-page-numbers/vivliostyle-output.pdf>`_
-- `Antennahouse <../../../lesson-page-numbers/antennahouse.pdf>`_
+- `PDFreactor <https://github.com/zopyx/css-paged-media-tutorial/tree/master/lesson-page-numbers/pdfreactor.pdf>`_
+- `PrinceXML <https://github.com/zopyx/css-paged-media-tutorial/tree/master/lesson-page-numbers/prince.pdf>`_
+- `Vivliostyle <https://github.com/zopyx/css-paged-media-tutorial/tree/master/lesson-page-numbers/vivliostyle-output.pdf>`_
+- `Antennahouse <https://github.com/zopyx/css-paged-media-tutorial/tree/master/lesson-page-numbers/antennahouse.pdf>`_
