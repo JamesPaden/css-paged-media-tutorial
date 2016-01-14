@@ -27,6 +27,13 @@ Generated PDF Output
 ++++++++++++++++++++
 
 - `PDFreactor <https://github.com/zopyx/css-paged-media-tutorial/tree/master/lesson-fonts/pdfreactor.pdf>`_
+  `(download) <https://github.com/zopyx/css-paged-media-tutorial/raw/master/lesson-fonts/pdfreactor.pdf>`_
+
 - `PrinceXML <https://github.com/zopyx/css-paged-media-tutorial/tree/master/lesson-fonts/prince.pdf>`_
+  `(downlod) <https://github.com/zopyx/css-paged-media-tutorial/raw/master/lesson-fonts/prince.pdf>`_
+
 - `Vivliostyle <https://github.com/zopyx/css-paged-media-tutorial/tree/master/lesson-fonts/vivliostyle-output.pdf>`_
+  `(download) <https://github.com/zopyx/css-paged-media-tutorial/raw/master/lesson-fonts/vivliostyle-output.pdf>`_
+
 - `Antennahouse <https://github.com/zopyx/css-paged-media-tutorial/tree/master/lesson-fonts/antennahouse.pdf>`_
+  `(download) <https://github.com/zopyx/css-paged-media-tutorial/raw/master/lesson-fonts/antennahouse.pdf>`_
