@@ -15,15 +15,17 @@ h1 {
 .cols-4 {
     column-count: 4;
     column-gap: 1cm;
-    column-role: 4px outset #ff0ff;
+    column-rule: 4px solid #ff0ff;
 }
 
 .cols-3 {
     column-count: 3;
     column-gap: 1cm;
+    column-rule: 4px solid #ff0ff;
 }
 
 .cols-2 {
     column-count: 2;
     column-gap: 1cm;
+    column-rule: 4px solid #ff0ff;
 }
