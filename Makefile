@@ -21,3 +21,14 @@ git: clean all
 
 push: 
 	git push
+
+
+docs: FORCE
+	git pull
+	virtualenv-2.7 .
+	bin/pip install sphinx
+	bin/pip install sphinx-bootstrap-theme
+	cd docs; make html
+	cp -av docs/build/html/* /var/www/print-css.rocks
+
+FORCE:
