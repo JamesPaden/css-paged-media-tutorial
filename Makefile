@@ -1,4 +1,4 @@
-all: pdfreactor prince vivliostyle
+all: pdfreactor prince vivliostyle antennahouse
 
 pdfreactor:
 	pdfreactor -v -j index.html pdfreactor.pdf
