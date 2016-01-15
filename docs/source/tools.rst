@@ -11,7 +11,7 @@ CSS Paged Media converters
 PDFreactor
 ++++++++++
 
-* current version: 8
+* Current version: 8
 * Website: http://www.pdfreactor.com
 * Sample documents: http://www.pdfreactor.com/samples/
 * Pricing: 
@@ -21,16 +21,16 @@ PDFreactor
 
 * Personal rating:
 
-  * Excellent workhorse, very compliant and complete implementation of the CSS Paged Media standard
-  * Extensive and good documentation (Javascript API could be better documented with examples)
-  * Reasonable pricing 
-  * Good and responsive support
-  * PDFreactor is now premier choice in customer projects
+  * Excellent workhorse, very compliant and complete implementation of the CSS Paged Media standard.
+  * Extensive and good documentation (Javascript API could be better documented with examples).
+  * Reasonable pricing.
+  * Good and responsive support.
+  * PDFreactor is now premier choice in customer projects.
 
 PrinceXML
 +++++++++
 
-* current version: 10
+* Current version: 10
 * Website: http://www.princexml.com
 * Sample documents: http://www.princexml.com/samples
 * Pricing: 
@@ -50,21 +50,21 @@ PrinceXML
 Vivliostyle Formatter
 +++++++++++++++++++++
 
-* current version: unreleased/beta
+* Current version: unreleased/beta
 * Website: http://www.vivliostyle.com
 * Samples: http://www.vivliostyle.com/en/sample/
 * Pricing: unknown so far
 
 * Personal rating:
 
-  * Not much can be said to this beta-quality software
-  * Detailed documentation missing so far
+  * Not much can be said to this beta-quality software.
+  * Detailed documentation missing so far.
   * Vivliostyle may become a game changer and perhaps "the next big thing" in publishing
   * Vivliostyle does not claim being (fully) CSS Paged Media compliant. Instead it seems
     to push vendors and the W3C publishing groups for getting forward with the standardization
-    of various features (e.g. shapes)
-  * Absolutely worthy keeping an eye on Vivliostyle
-  * The success of Vivliostyle will depend on threethings: 
+    of various features (e.g. shapes).
+  * Absolutely worthy keeping an eye on Vivliostyle.
+  * The success of Vivliostyle will depend on three things: 
     
     * reasonable pricing, 
     * friendly license conditions
@@ -74,7 +74,7 @@ Vivliostyle Formatter
 Antennahouse CSS Formatter
 ++++++++++++++++++++++++++
 
-* current version: 6.2
+* Current version: 6.2
 * Website: http://www.antennahouse.com
 * Pricing:
 
@@ -88,13 +88,13 @@ Antennahouse CSS Formatter
 * Personal rating:
 
   * Perhaps the formatter with the best quality and typographical features
-    (in fact it is based on their own XSL-FO converter Antennahouse V 6.2)
+    (in fact it is based on their own XSL-FO converter Antennahouse V 6.2).
   * high price
 
 pdfChip 
 +++++++
 
-* current version. 1.1
+* Current version. 1.1
 * Website: https://www.callassoftware.com/en/products/pdfchip
 * Pricing: the various pdfChip versions are artificially limited (you pay
   for document volume and usage):
@@ -108,7 +108,7 @@ pdfChip
 
   * pdfChip does not claim to implement (the whole) CSS Paged Media standard.
     Instead they rely on the Webkit browser engine and implement a lot of
-    features using the -webkit CSS prefix
+    features using the -webkit CSS prefix.
   * An absurd pricing policy that is hard to beat. Entry level costs 5.000 EUR and is
     is crippled down to 25 pages per document. What the fuck...this is ripping of
     customers.
@@ -119,13 +119,13 @@ pdfChip
   * In my opinion not worth a single EUR...PDFreactor or PrinceXML are in general
     the better option (you get PDFreactor for less than 3000 USD without any
     limitation compared to a castrated pdfChip version (limited to #pages per document
-    and # documents per hour)
-  * pdfChip appears like a completely overpriced barcode generator
+    and # documents per hour).
+  * pdfChip appears like a completely overpriced barcode generator.
 
 Weasyprint
 ++++++++++
 
-* current version: 0.24
+* Current version: 0.24
 * Website: http://www.weasyprint.org
 * Pricing:
 
@@ -135,7 +135,7 @@ Weasyprint
 
   * Free alternative with a PDF rendering quality that is average.
   * Weasyprint only implements a subset of the CSS Paged Media standard
-  * Various error found during evaluation.
+  * Various errors found during evaluation.
   * If you need a cheap and average PDF engine then Weasyprint might be
     an option. Don't use it for professional enterprise projects. Tinkering
     with bugs and limitations costs more time, money and nerves than investing
@@ -151,7 +151,7 @@ Docraptor
 
 * Personal rating:
 
-  * Same quality as with PrinceXML (since Docraptor is backed by PrinceXML)
+  * Same quality as with PrinceXML (since Docraptor is backed by PrinceXML).
   * If privacy is an issue than Docraptor is not an option.
   * Princing is based on conversion volume and appears reasonable. Not sure
     when a self-hosted version of some other professional converter is cheaper
