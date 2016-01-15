@@ -17,7 +17,7 @@ PDF files
   `Preview <https://github.com/zopyx/css-paged-media-tutorial/tree/master/lesson-guideline/pdfreactor.pdf>`_ • `Download <https://github.com/zopyx/css-paged-media-tutorial/raw/master/lesson-guideline/pdfreactor.pdf>`_
   
 
-- **PrinceXML**: OK
+- **PrinceXML**: undecided
   `Preview <https://github.com/zopyx/css-paged-media-tutorial/tree/master/lesson-guideline/pdfreactor.pdf>`_ • `Download <https://github.com/zopyx/css-paged-media-tutorial/raw/master/lesson-guideline/pdfreactor.pdf>`_
   
 
@@ -25,7 +25,7 @@ PDF files
   `Preview <https://github.com/zopyx/css-paged-media-tutorial/tree/master/lesson-guideline/pdfreactor.pdf>`_ • `Download <https://github.com/zopyx/css-paged-media-tutorial/raw/master/lesson-guideline/pdfreactor.pdf>`_
   
 
-- **Vivliostyle**: OK
+- **Vivliostyle**: undecided
   `Preview <https://github.com/zopyx/css-paged-media-tutorial/tree/master/lesson-guideline/pdfreactor.pdf>`_ • `Download <https://github.com/zopyx/css-paged-media-tutorial/raw/master/lesson-guideline/pdfreactor.pdf>`_
   
 

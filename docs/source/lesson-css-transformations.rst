@@ -25,7 +25,7 @@ PDF files
   `Preview <https://github.com/zopyx/css-paged-media-tutorial/tree/master/lesson-css-transformations/pdfreactor.pdf>`_ • `Download <https://github.com/zopyx/css-paged-media-tutorial/raw/master/lesson-css-transformations/pdfreactor.pdf>`_
   
 
-- **Vivliostyle**: OK
+- **Vivliostyle**: ERROR
   `Preview <https://github.com/zopyx/css-paged-media-tutorial/tree/master/lesson-css-transformations/pdfreactor.pdf>`_ • `Download <https://github.com/zopyx/css-paged-media-tutorial/raw/master/lesson-css-transformations/pdfreactor.pdf>`_
   
 
