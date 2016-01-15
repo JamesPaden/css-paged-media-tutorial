@@ -9,31 +9,15 @@ Repository files
 
 - https://github.com/zopyx/css-paged-media-tutorial/tree/master/lesson-guideline
 
-Stylesheet
-++++++++++
+PDF files
++++++++++
 
-.. literalinclude:: ../../lesson-guideline/styles.css
-  :language: css
-  :linenos:
+
+
+
 
 HTML input
 ++++++++++
-
 .. literalinclude:: ../../lesson-guideline/index.html
   :language: html
   :linenos:
-
-Generated PDF Output
-++++++++++++++++++++
-
-- `PDFreactor <https://github.com/zopyx/css-paged-media-tutorial/tree/master/lesson-guideline/pdfreactor.pdf>`_
-  `(download) <https://github.com/zopyx/css-paged-media-tutorial/raw/master/lesson-guideline/pdfreactor.pdf>`_
-
-- `PrinceXML <https://github.com/zopyx/css-paged-media-tutorial/tree/master/lesson-guideline/prince.pdf>`_
-  `(downlod) <https://github.com/zopyx/css-paged-media-tutorial/raw/master/lesson-guideline/prince.pdf>`_
-
-- `Vivliostyle <https://github.com/zopyx/css-paged-media-tutorial/tree/master/lesson-guideline/vivliostyle-output.pdf>`_
-  `(download) <https://github.com/zopyx/css-paged-media-tutorial/raw/master/lesson-guideline/vivliostyle-output.pdf>`_
-
-- `Antennahouse <https://github.com/zopyx/css-paged-media-tutorial/tree/master/lesson-guideline/antennahouse.pdf>`_
-  `(download) <https://github.com/zopyx/css-paged-media-tutorial/raw/master/lesson-guideline/antennahouse.pdf>`_

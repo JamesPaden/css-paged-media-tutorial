@@ -26,8 +26,7 @@ push:
 docs: FORCE
 	git pull
 	virtualenv-2.7 .
-	bin/pip install sphinx
-	bin/pip install sphinx-bootstrap-theme
+	bin/pip install sphinx sphinx-bootstrap-theme ninja
 	cd docs; make html
 	cp -av docs/build/html/* /var/www/print-css.rocks
 
