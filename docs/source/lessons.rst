@@ -2,25 +2,25 @@ Lessons
 +++++++
 
 .. toctree::
-  lesson-positioning.rst
-  lesson-tables.rst
-  lesson-table-of-content-leaders.rst
-  lesson-multi-columns.rst
-  lesson-xml.rst
-  lesson-page-numbers.rst
-  lesson-mathml-native.rst
-  lesson-chart-js.rst
-  lesson-fonts.rst
-  lesson-hyphenation.rst
-  lesson-guideline.rst
-  lesson-chapter-numbering.rst
-  lesson-css-transformations.rst
-  lesson-cross-references.rst
-  lesson-page-areas.rst
-  lesson-running-elements.rst
-  lesson-pagination.rst
   lesson-basic.rst
-  lesson-images.rst
-  lesson-footnotes.rst
+  lesson-chapter-numbering.rst
+  lesson-chart-js.rst
+  lesson-cross-references.rst
+  lesson-css-transformations.rst
   lesson-flotr2-js.rst
+  lesson-fonts.rst
+  lesson-footnotes.rst
+  lesson-guideline.rst
+  lesson-hyphenation.rst
+  lesson-images.rst
+  lesson-mathml-native.rst
+  lesson-multi-columns.rst
+  lesson-page-areas.rst
+  lesson-page-numbers.rst
+  lesson-pagination.rst
+  lesson-positioning.rst
   lesson-right-to-left.rst
+  lesson-running-elements.rst
+  lesson-table-of-content-leaders.rst
+  lesson-tables.rst
+  lesson-xml.rst
