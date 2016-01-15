@@ -11,7 +11,7 @@
     <tbody>
         {% for lesson in rows %}
             <tr>
-                <td>{{ lesson }}</td>
+                <td><a href="{{ lesson}}.html">{{ lesson }}</a></td>
                 <td>
                     {% if rows[lesson].get('PDFreactor') %}
                         {{ rows[lesson]['PDFreactor']['status'] }}
