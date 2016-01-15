@@ -18,15 +18,15 @@ PDF files
   
 
 - **PrinceXML**: OK
-  `Preview <https://github.com/zopyx/css-paged-media-tutorial/tree/master/lesson-multi-columns/pdfreactor.pdf>`_ • `Download <https://github.com/zopyx/css-paged-media-tutorial/raw/master/lesson-multi-columns/pdfreactor.pdf>`_
+  `Preview <https://github.com/zopyx/css-paged-media-tutorial/tree/master/lesson-multi-columns/prince.pdf>`_ • `Download <https://github.com/zopyx/css-paged-media-tutorial/raw/master/lesson-multi-columns/prince.pdf>`_
   
 
 - **Antennahouse**: 
-  `Preview <https://github.com/zopyx/css-paged-media-tutorial/tree/master/lesson-multi-columns/pdfreactor.pdf>`_ • `Download <https://github.com/zopyx/css-paged-media-tutorial/raw/master/lesson-multi-columns/pdfreactor.pdf>`_
+  `Preview <https://github.com/zopyx/css-paged-media-tutorial/tree/master/lesson-multi-columns/antennahouse.pdf>`_ • `Download <https://github.com/zopyx/css-paged-media-tutorial/raw/master/lesson-multi-columns/antennahouse.pdf>`_
   
 
 - **Vivliostyle**: ERROR
-  `Preview <https://github.com/zopyx/css-paged-media-tutorial/tree/master/lesson-multi-columns/pdfreactor.pdf>`_ • `Download <https://github.com/zopyx/css-paged-media-tutorial/raw/master/lesson-multi-columns/pdfreactor.pdf>`_
+  `Preview <https://github.com/zopyx/css-paged-media-tutorial/tree/master/lesson-multi-columns/vivliostyle-output.pdf>`_ • `Download <https://github.com/zopyx/css-paged-media-tutorial/raw/master/lesson-multi-columns/vivliostyle-output.pdf>`_
   
 
 

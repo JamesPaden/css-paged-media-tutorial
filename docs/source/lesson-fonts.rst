@@ -18,15 +18,15 @@ PDF files
   
 
 - **PrinceXML**: OK
-  `Preview <https://github.com/zopyx/css-paged-media-tutorial/tree/master/lesson-fonts/pdfreactor.pdf>`_ • `Download <https://github.com/zopyx/css-paged-media-tutorial/raw/master/lesson-fonts/pdfreactor.pdf>`_
+  `Preview <https://github.com/zopyx/css-paged-media-tutorial/tree/master/lesson-fonts/prince.pdf>`_ • `Download <https://github.com/zopyx/css-paged-media-tutorial/raw/master/lesson-fonts/prince.pdf>`_
   
 
 - **Antennahouse**: 
-  `Preview <https://github.com/zopyx/css-paged-media-tutorial/tree/master/lesson-fonts/pdfreactor.pdf>`_ • `Download <https://github.com/zopyx/css-paged-media-tutorial/raw/master/lesson-fonts/pdfreactor.pdf>`_
+  `Preview <https://github.com/zopyx/css-paged-media-tutorial/tree/master/lesson-fonts/antennahouse.pdf>`_ • `Download <https://github.com/zopyx/css-paged-media-tutorial/raw/master/lesson-fonts/antennahouse.pdf>`_
   
 
 - **Vivliostyle**: OK
-  `Preview <https://github.com/zopyx/css-paged-media-tutorial/tree/master/lesson-fonts/pdfreactor.pdf>`_ • `Download <https://github.com/zopyx/css-paged-media-tutorial/raw/master/lesson-fonts/pdfreactor.pdf>`_
+  `Preview <https://github.com/zopyx/css-paged-media-tutorial/tree/master/lesson-fonts/vivliostyle-output.pdf>`_ • `Download <https://github.com/zopyx/css-paged-media-tutorial/raw/master/lesson-fonts/vivliostyle-output.pdf>`_
   
 
 

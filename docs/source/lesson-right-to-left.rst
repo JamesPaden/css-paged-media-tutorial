@@ -18,15 +18,15 @@ PDF files
   
 
 - **PrinceXML**: OK
-  `Preview <https://github.com/zopyx/css-paged-media-tutorial/tree/master/lesson-right-to-left/pdfreactor.pdf>`_ • `Download <https://github.com/zopyx/css-paged-media-tutorial/raw/master/lesson-right-to-left/pdfreactor.pdf>`_
+  `Preview <https://github.com/zopyx/css-paged-media-tutorial/tree/master/lesson-right-to-left/prince.pdf>`_ • `Download <https://github.com/zopyx/css-paged-media-tutorial/raw/master/lesson-right-to-left/prince.pdf>`_
   
 
 - **Antennahouse**: 
-  `Preview <https://github.com/zopyx/css-paged-media-tutorial/tree/master/lesson-right-to-left/pdfreactor.pdf>`_ • `Download <https://github.com/zopyx/css-paged-media-tutorial/raw/master/lesson-right-to-left/pdfreactor.pdf>`_
+  `Preview <https://github.com/zopyx/css-paged-media-tutorial/tree/master/lesson-right-to-left/antennahouse.pdf>`_ • `Download <https://github.com/zopyx/css-paged-media-tutorial/raw/master/lesson-right-to-left/antennahouse.pdf>`_
   
 
 - **Vivliostyle**: OK
-  `Preview <https://github.com/zopyx/css-paged-media-tutorial/tree/master/lesson-right-to-left/pdfreactor.pdf>`_ • `Download <https://github.com/zopyx/css-paged-media-tutorial/raw/master/lesson-right-to-left/pdfreactor.pdf>`_
+  `Preview <https://github.com/zopyx/css-paged-media-tutorial/tree/master/lesson-right-to-left/vivliostyle-output.pdf>`_ • `Download <https://github.com/zopyx/css-paged-media-tutorial/raw/master/lesson-right-to-left/vivliostyle-output.pdf>`_
   
 
 

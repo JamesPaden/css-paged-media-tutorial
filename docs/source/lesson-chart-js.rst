@@ -18,15 +18,15 @@ PDF files
   
 
 - **PrinceXML**: ERROR
-  `Preview <https://github.com/zopyx/css-paged-media-tutorial/tree/master/lesson-chart-js/pdfreactor.pdf>`_ • `Download <https://github.com/zopyx/css-paged-media-tutorial/raw/master/lesson-chart-js/pdfreactor.pdf>`_
+  `Preview <https://github.com/zopyx/css-paged-media-tutorial/tree/master/lesson-chart-js/prince.pdf>`_ • `Download <https://github.com/zopyx/css-paged-media-tutorial/raw/master/lesson-chart-js/prince.pdf>`_
   
 
 - **Antennahouse**: 
-  `Preview <https://github.com/zopyx/css-paged-media-tutorial/tree/master/lesson-chart-js/pdfreactor.pdf>`_ • `Download <https://github.com/zopyx/css-paged-media-tutorial/raw/master/lesson-chart-js/pdfreactor.pdf>`_
+  `Preview <https://github.com/zopyx/css-paged-media-tutorial/tree/master/lesson-chart-js/antennahouse.pdf>`_ • `Download <https://github.com/zopyx/css-paged-media-tutorial/raw/master/lesson-chart-js/antennahouse.pdf>`_
   
 
 - **Vivliostyle**: ERROR
-  `Preview <https://github.com/zopyx/css-paged-media-tutorial/tree/master/lesson-chart-js/pdfreactor.pdf>`_ • `Download <https://github.com/zopyx/css-paged-media-tutorial/raw/master/lesson-chart-js/pdfreactor.pdf>`_
+  `Preview <https://github.com/zopyx/css-paged-media-tutorial/tree/master/lesson-chart-js/vivliostyle-output.pdf>`_ • `Download <https://github.com/zopyx/css-paged-media-tutorial/raw/master/lesson-chart-js/vivliostyle-output.pdf>`_
   
 
 

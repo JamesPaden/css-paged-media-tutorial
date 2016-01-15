@@ -14,7 +14,7 @@ PDF files
 
 {% for entry in pdfs %}
 - **{{ entry.name }}**: {{ entry.status }}
-  `Preview <https://github.com/zopyx/css-paged-media-tutorial/tree/master/{{ name }}/pdfreactor.pdf>`_ • `Download <https://github.com/zopyx/css-paged-media-tutorial/raw/master/{{ name }}/pdfreactor.pdf>`_
+  `Preview <https://github.com/zopyx/css-paged-media-tutorial/tree/master/{{ name }}/{{ entry['pdf_file'] }}>`_ • `Download <https://github.com/zopyx/css-paged-media-tutorial/raw/master/{{ name }}/{{ entry['pdf_file']}}>`_
   {% if entry.message %} 
   {{ entry.message }}
   {% endif %}
