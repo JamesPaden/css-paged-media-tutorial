@@ -1,9 +1,11 @@
-Tutorial CSS Paged Media
-========================
+CSS Paged Media and showcase
+============================
 
 This tutorial shows how to generate PDF documents from XML/HTML
 using the "CSS Paged Media" approach where the complete styling
 and layout information is keep in cascading stylessheets (CSS).
+In addition we show what different tools produce with identical data.
+This gives an impression on functionality and output quality.
 
 What is CSS Paged Media
 -----------------------
