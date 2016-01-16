@@ -32,8 +32,12 @@ PDF files
 
 
 
+
 HTML input
 ++++++++++
 .. literalinclude:: ../../lesson-chart-js/index.html
   :language: html
   :linenos:
+
+
+

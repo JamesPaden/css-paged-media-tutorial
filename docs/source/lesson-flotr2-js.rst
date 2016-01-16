@@ -32,8 +32,12 @@ PDF files
 
 
 
+
 HTML input
 ++++++++++
 .. literalinclude:: ../../lesson-flotr2-js/index.html
   :language: html
   :linenos:
+
+
+

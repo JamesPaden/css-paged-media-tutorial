@@ -30,9 +30,20 @@ Stylesheet
 
 {% endif %}
 
+{% if mode == 'html' %}
 HTML input
 ++++++++++
 .. literalinclude:: ../../{{ name }}/index.html
   :language: html
   :linenos:
 
+{% endif %}
+
+{% if mode == 'xml' %}
+XML input
++++++++++
+.. literalinclude:: ../../{{ name }}/index.xml
+  :language: xml
+  :linenos:
+
+{% endif %}

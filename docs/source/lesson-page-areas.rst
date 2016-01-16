@@ -40,8 +40,12 @@ Stylesheet
 
 
 
+
 HTML input
 ++++++++++
 .. literalinclude:: ../../lesson-page-areas/index.html
   :language: html
   :linenos:
+
+
+

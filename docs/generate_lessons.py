@@ -29,10 +29,17 @@ with open('source/lessons.rst', 'wb') as fp_out:
         conversion_ini = os.path.join(lesson_dir, 'conversion.ini')
         pdfs = list()
         comp = dict()
+        mode = 'html'
         if os.path.exists(conversion_ini):
             CP = ConfigParser()
             CP.read(conversion_ini)
+            if CP.has_option('main', 'mode'):
+                mode = CP.get('main', 'mode')
+
             for section in CP.sections():
+                if section not in ('PDFreactor', 'PrinceXML', 'Vivliostyle', 'Antennahouse'):
+                    continue
+
                 pdf_file = CP.get(section, 'pdf')
                 status = CP.get(section, 'status')
                 message = CP.get(section, 'message')
@@ -45,7 +52,8 @@ with open('source/lessons.rst', 'wb') as fp_out:
         params = dict(
             name=name,
             pdfs=pdfs,
-            has_css=has_css
+            has_css=has_css,
+            mode=mode
             )
 
         output = template.render(params)

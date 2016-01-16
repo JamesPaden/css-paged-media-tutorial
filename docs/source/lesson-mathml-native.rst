@@ -40,8 +40,12 @@ Stylesheet
 
 
 
+
 HTML input
 ++++++++++
 .. literalinclude:: ../../lesson-mathml-native/index.html
   :language: html
   :linenos:
+
+
+
