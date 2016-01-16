@@ -5,7 +5,6 @@ This tutorial shows how to generate PDF documents from XML/HTML
 using the "CSS Paged Media" approach where the complete styling
 and layout information is keep in cascading stylessheets (CSS).
 
-
 What is CSS Paged Media
 -----------------------
 
@@ -27,49 +26,70 @@ print styles. The styles are kept as simple as impossible in order to demonstrat
 the functionality. Nice layout options are being omitted for the sake keeping
 everything as simple as possible.
 
+Tools
+-----
 
-Software
---------
+There are various CSS Paged Media converters on the market. However we focus on
+some tools that are widely used and the ones that provide a reasonable quality
+for professional use. Another (personal) requirement is also that tools should
+work cross-platform on multiple operating systems (Mac OSX, Linux, Windows).
+Tests do not include tools that only work on a single operating system or
+platform for inclusion as a library.
 
-The tutorial is based on external converters like 
+This tutorial and shortcut covers and compares the following four tools:
 
-* PDFreactor 7 or 8 (www.pdfreactor.com)
+- PDFreactor 7/8
+- PrinceXML 9/10
+- Antennahouse 6.2 CSS formatter 
+- Vivliostyle Formatter
 
-or
-
-* PrinceXML 9 or 10 (www.princexml.com)
-
-The external converters are available for all decent operating systems like
-MacOS, Windows or Linux. The preferred converter for this tutorial is
-PDFreactor (and PrinceXML).  Both converters are available for evaluation or
-private purposes for free.  Antennahouse provides a special "CSS Edition" of
-its Antennahouse Formatter software as well).  There is another tool called
-PDFchip which also implements parts of the CSS Paged Media standard but it
-lacks several feature besides the ridiculous high licence fees (so not an
-option for us).
-
-This tutorial also partly supports the Vivlostyle Formatter (www.vivliostyle.com).
-For the moment it is unclear which parts of the CSS Paged Media standard are or
-will be supported due to the beta status of the software and the lack of decent
-documentation.
+This tutorial does not cover and installation issues. Please refer to
+the vendor documentation. All tools are available for free for the purpose
+of evaluation. Depending on the converter the generated PDF documents will
+contain a watermark or a vendor specific message or icon.
 
 Basic converter usage
 ---------------------
 
-.. code-block::
+PDFreactor
+++++++++++
 
-    > prince index.html index.pdf
-    > pdfreactor index.html index.pdf
+.. code-block:: shell
+
+  > prince index.html index.pdf
+
+PrinceXML
++++++++++
+
+.. code-block:: shell
+
+  > pdfreactor index.html index.pdf
+
+Vivliostyle Formatter
++++++++++++++++++++++
+
+.. code-block:: shell
+
+  > vivliostyle-formatter index.html
+
+
+Antennahouse CSS Formatter
+++++++++++++++++++++++++++
+
+.. code-block:: shell
+
+  > run.sh -d index.html 
 
 The core examples work both with ```pdfreactor`` and ``prince```. Ensure that
 the related binary/binaries are configured in the ``$PATH`` of your shell environment.
 
 Each of ``lesson-...`` directory contains a ``Makefile`` that can be used in the same
-across all lessons for generating a PDF with PDFreactor or PrinceXML::
+across all lessons for generating a PDF with one of the mentioned converters::
 
     > make pdfreactor -> generates pdfreactor.pdf as output
     > make prince -> generates prince.pdf as output
     > make vivliostyle -> generates vivliostyle-formatter.pdf as output
+    > make antennahouse -> generates antennahouse.pdf as output
 
 
 Supplementary material
@@ -89,17 +109,3 @@ Bugtracker
 
 - https://github.com/zopyx/css-paged-media-tutorial/issues
 
-Author
-------
-Andreas Jung is an expert in electronic publishing with more 20 years of professional
-experience in publishing projects.
-
-
-| Andreas Jung
-| info@zopyx.com
-| @MacYET on Twitter
-| https://www.zopyx.com
-| https://about.me/andreasjung 
-| https://www.zopyx.com/company/team-and-partners/andreas-jung
-| https://www.produce-and-publish.com
-| https://www.xml-director.info
