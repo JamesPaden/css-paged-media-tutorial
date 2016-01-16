@@ -1,5 +1,5 @@
-Supplementary information
-=========================
+Related information
+===================
 
 Video
 -----
@@ -47,3 +47,5 @@ Articles
 - `Introduction to the Paged Media Module in CSS 3 <http://www.techrepublic.com/blog/web-designer/introduction-to-the-paged-media-module-in-css3/>`_
 - `XSL-FO Is Dead, CSS Paged Media Is Prime Suspect <http://www.rockweb.co.uk/blog/2014/06/xsl-fo-is-dead,-css-paged-media-is-prime-suspect/>`_
 - `PRINTING WEB PAGES WITH THE PAGED MEDIA MODULE <https://www.stevefenton.co.uk/2013/12/printing-web-pages-with-the-paged-media-module/>`_
+
+- `CSS 3 (and HTML) for Publishers <http://chimera.labs.oreilly.com/books/1234000001694/index.html>`_
