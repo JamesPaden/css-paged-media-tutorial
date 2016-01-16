@@ -52,7 +52,7 @@ with open('source/lessons.rst', 'wb') as fp_out:
         open('source/{}.rst'.format(name), 'wb').write(output.encode('utf8'))
         os.system('git add source/{}.rst'.format(name))
 
-    fp_out.write('    :maxdepth:0\n')
+    fp_out.write('  :maxdepth: 1\n')
 
 # compliance.html
 with open('compliance.tpl', 'rb') as fp:

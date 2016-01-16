@@ -24,4 +24,4 @@ Lessons
   lesson-table-of-content-leaders.rst
   lesson-tables.rst
   lesson-xml.rst
-    :maxdepth:0
+  :maxdepth: 1
