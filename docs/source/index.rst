@@ -13,6 +13,7 @@ Contents:
    tools.rst
    lessons.rst
    compliance.rst
+   supplementary.rst
    about.rst
    :maxdepth: 2
 

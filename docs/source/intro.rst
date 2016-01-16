@@ -94,13 +94,6 @@ across all lessons for generating a PDF with one of the mentioned converters::
     > make antennahouse -> generates antennahouse.pdf as output
 
 
-Supplementary material
-----------------------
-
-- https://www.youtube.com/watch?v=H-5_b9m3p1k
-- http://de.slideshare.net/ajung/css-paged-media-a-review-of-tools-and-techniques
-- `Print CSS. Das CSS paged media Modul <http://www.pagina-online.de/unternehmen/publikationen/printcss />`_ (German only)
-
 Source code
 -----------
 
