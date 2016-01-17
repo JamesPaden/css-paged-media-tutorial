@@ -13,15 +13,17 @@ PDF files
 +++++++++
 
 
-- **PDFreactor**: OK
+- **PDFreactor**: with errors
   `Preview <https://github.com/zopyx/css-paged-media-tutorial/tree/master/lesson-right-to-left/pdfreactor.pdf>`_ • `Download <https://github.com/zopyx/css-paged-media-tutorial/raw/master/lesson-right-to-left/pdfreactor.pdf>`_
+   
+  improper rendering and positing of numbers
   
 
 - **PrinceXML**: OK
   `Preview <https://github.com/zopyx/css-paged-media-tutorial/tree/master/lesson-right-to-left/prince.pdf>`_ • `Download <https://github.com/zopyx/css-paged-media-tutorial/raw/master/lesson-right-to-left/prince.pdf>`_
   
 
-- **Antennahouse**: 
+- **Antennahouse**: OK
   `Preview <https://github.com/zopyx/css-paged-media-tutorial/tree/master/lesson-right-to-left/antennahouse.pdf>`_ • `Download <https://github.com/zopyx/css-paged-media-tutorial/raw/master/lesson-right-to-left/antennahouse.pdf>`_
   
 

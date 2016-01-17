@@ -21,7 +21,7 @@ PDF files
   `Preview <https://github.com/zopyx/css-paged-media-tutorial/tree/master/lesson-page-areas/prince.pdf>`_ • `Download <https://github.com/zopyx/css-paged-media-tutorial/raw/master/lesson-page-areas/prince.pdf>`_
   
 
-- **Antennahouse**: 
+- **Antennahouse**: OK
   `Preview <https://github.com/zopyx/css-paged-media-tutorial/tree/master/lesson-page-areas/antennahouse.pdf>`_ • `Download <https://github.com/zopyx/css-paged-media-tutorial/raw/master/lesson-page-areas/antennahouse.pdf>`_
   
 

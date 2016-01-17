@@ -21,7 +21,6 @@ Lessons
   lesson-positioning.rst
   lesson-right-to-left.rst
   lesson-running-elements.rst
-  lesson-table-of-content-leaders.rst
   lesson-tables.rst
   lesson-xml.rst
   :maxdepth: 1
