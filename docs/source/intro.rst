@@ -1,5 +1,5 @@
-CSS Paged Media and showcase
-============================
+Tutorial and showcase
+=====================
 
 This tutorial shows how to generate PDF documents from XML/HTML
 using the "CSS Paged Media" approach where the complete styling

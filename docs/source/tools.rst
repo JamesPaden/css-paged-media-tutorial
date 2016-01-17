@@ -1,6 +1,6 @@
 
-CSS Paged Media converters
---------------------------
+Converters, tools and services
+------------------------------
 
 .. note::
 
