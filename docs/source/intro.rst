@@ -80,7 +80,7 @@ Antennahouse CSS Formatter
 
 .. code-block:: shell
 
-  > run.sh -d index.html 
+  > run.sh -d index.html  -o out.pdf
 
 The core examples work both with ```pdfreactor`` and ``prince```. Ensure that
 the related binary/binaries are configured in the ``$PATH`` of your shell environment.
