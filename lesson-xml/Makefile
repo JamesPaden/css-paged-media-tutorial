@@ -1,4 +1,4 @@
-all: pdfreactor prince vivliostyle
+all: pdfreactor prince vivliostyle antennahouse
 
 pdfreactor:
 	pdfreactor -s styles.css index.xml pdfreactor.pdf
@@ -8,6 +8,9 @@ prince:
 
 vivliostyle: 
 	vivliostyle-formatter index.xml 
+
+antennahouse: 
+	vivliostyle-formatter -d index.xml -o antennahouse.pdf
 
 clean:
 	find . -name \*.pdf -exec rm {} \;
