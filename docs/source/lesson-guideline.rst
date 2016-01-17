@@ -17,16 +17,22 @@ PDF files
   `Preview <https://github.com/zopyx/css-paged-media-tutorial/tree/master/lesson-guideline/pdfreactor.pdf>`_ • `Download <https://github.com/zopyx/css-paged-media-tutorial/raw/master/lesson-guideline/pdfreactor.pdf>`_
   
 
-- **PrinceXML**: undecided
+- **PrinceXML**: unrated
   `Preview <https://github.com/zopyx/css-paged-media-tutorial/tree/master/lesson-guideline/prince.pdf>`_ • `Download <https://github.com/zopyx/css-paged-media-tutorial/raw/master/lesson-guideline/prince.pdf>`_
+   
+  given styles specific to PDFreactor
   
 
-- **Antennahouse**: 
+- **Antennahouse**: unrated
   `Preview <https://github.com/zopyx/css-paged-media-tutorial/tree/master/lesson-guideline/antennahouse.pdf>`_ • `Download <https://github.com/zopyx/css-paged-media-tutorial/raw/master/lesson-guideline/antennahouse.pdf>`_
+   
+  given styles specific to PDFreactor
   
 
-- **Vivliostyle**: undecided
+- **Vivliostyle**: unrated
   `Preview <https://github.com/zopyx/css-paged-media-tutorial/tree/master/lesson-guideline/vivliostyle-output.pdf>`_ • `Download <https://github.com/zopyx/css-paged-media-tutorial/raw/master/lesson-guideline/vivliostyle-output.pdf>`_
+   
+  given styles specific to PDFreactor
   
 
 

@@ -21,12 +21,14 @@ PDF files
   `Preview <https://github.com/zopyx/css-paged-media-tutorial/tree/master/lesson-multi-columns/prince.pdf>`_ • `Download <https://github.com/zopyx/css-paged-media-tutorial/raw/master/lesson-multi-columns/prince.pdf>`_
   
 
-- **Antennahouse**: 
+- **Antennahouse**: OK
   `Preview <https://github.com/zopyx/css-paged-media-tutorial/tree/master/lesson-multi-columns/antennahouse.pdf>`_ • `Download <https://github.com/zopyx/css-paged-media-tutorial/raw/master/lesson-multi-columns/antennahouse.pdf>`_
   
 
 - **Vivliostyle**: ERROR
   `Preview <https://github.com/zopyx/css-paged-media-tutorial/tree/master/lesson-multi-columns/vivliostyle-output.pdf>`_ • `Download <https://github.com/zopyx/css-paged-media-tutorial/raw/master/lesson-multi-columns/vivliostyle-output.pdf>`_
+   
+  does not support standard CSS muli columns
   
 
 

@@ -13,19 +13,19 @@ PDF files
 +++++++++
 
 
-- **PDFreactor**: OK
+- **PDFreactor**: with errors
   `Preview <https://github.com/zopyx/css-paged-media-tutorial/tree/master/lesson-mathml-native/pdfreactor.pdf>`_ • `Download <https://github.com/zopyx/css-paged-media-tutorial/raw/master/lesson-mathml-native/pdfreactor.pdf>`_
   
 
-- **PrinceXML**: OK
+- **PrinceXML**: with errors
   `Preview <https://github.com/zopyx/css-paged-media-tutorial/tree/master/lesson-mathml-native/prince.pdf>`_ • `Download <https://github.com/zopyx/css-paged-media-tutorial/raw/master/lesson-mathml-native/prince.pdf>`_
   
 
-- **Antennahouse**: 
+- **Antennahouse**: with error
   `Preview <https://github.com/zopyx/css-paged-media-tutorial/tree/master/lesson-mathml-native/antennahouse.pdf>`_ • `Download <https://github.com/zopyx/css-paged-media-tutorial/raw/master/lesson-mathml-native/antennahouse.pdf>`_
   
 
-- **Vivliostyle**: OK
+- **Vivliostyle**: partial rendering with errors
   `Preview <https://github.com/zopyx/css-paged-media-tutorial/tree/master/lesson-mathml-native/vivliostyle-output.pdf>`_ • `Download <https://github.com/zopyx/css-paged-media-tutorial/raw/master/lesson-mathml-native/vivliostyle-output.pdf>`_
   
 

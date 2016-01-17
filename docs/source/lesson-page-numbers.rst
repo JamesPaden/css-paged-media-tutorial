@@ -21,12 +21,14 @@ PDF files
   `Preview <https://github.com/zopyx/css-paged-media-tutorial/tree/master/lesson-page-numbers/prince.pdf>`_ • `Download <https://github.com/zopyx/css-paged-media-tutorial/raw/master/lesson-page-numbers/prince.pdf>`_
   
 
-- **Antennahouse**: 
+- **Antennahouse**: OK
   `Preview <https://github.com/zopyx/css-paged-media-tutorial/tree/master/lesson-page-numbers/antennahouse.pdf>`_ • `Download <https://github.com/zopyx/css-paged-media-tutorial/raw/master/lesson-page-numbers/antennahouse.pdf>`_
   
 
 - **Vivliostyle**: ERROR
   `Preview <https://github.com/zopyx/css-paged-media-tutorial/tree/master/lesson-page-numbers/vivliostyle-output.pdf>`_ • `Download <https://github.com/zopyx/css-paged-media-tutorial/raw/master/lesson-page-numbers/vivliostyle-output.pdf>`_
+   
+  does not render the total amount of pages properly
   
 
 

@@ -10,7 +10,7 @@ vivliostyle:
 	vivliostyle-formatter index.xml 
 
 antennahouse: 
-	vivliostyle-formatter -d index.xml -o antennahouse.pdf
+	run.sh -d index.xml -o antennahouse.pdf
 
 clean:
 	find . -name \*.pdf -exec rm {} \;
