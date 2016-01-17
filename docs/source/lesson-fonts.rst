@@ -12,22 +12,96 @@ Repository files
 PDF files
 +++++++++
 
+ .. raw:: html
 
-- **PDFreactor**: OK
-  `Preview <https://github.com/zopyx/css-paged-media-tutorial/tree/master/lesson-fonts/pdfreactor.pdf>`_ • `Download <https://github.com/zopyx/css-paged-media-tutorial/raw/master/lesson-fonts/pdfreactor.pdf>`_
-  
+  <table class="table">
+        <thead>
+            <tr>
+                <th>Converter</th>
+                <th>Status</th>
+                <th>PDF Preview</th>
+                <th>PDF Download</th>
+                <th>Comment</th>
+            </tr>
+        </thead>
+        <tbody>
+            
+                <tr>
+                    <td>
+                        PDFreactor
+                    </td>
+                    <td>
+                        OK
+                    </td>
+                    <td>
+                        <a href="https://github.com/zopyx/css-paged-media-tutorial/tree/master/lesson-fonts/pdfreactor.pdf">Preview</a>
+                    </td>
+                    <td>
+                        <a href="https://github.com/zopyx/css-paged-media-tutorial/raw/master/lesson-fonts/pdfreactor.pdf">Download</a>
+                    </td>
+                    <td>
+                          
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td>
+                        PrinceXML
+                    </td>
+                    <td>
+                        OK
+                    </td>
+                    <td>
+                        <a href="https://github.com/zopyx/css-paged-media-tutorial/tree/master/lesson-fonts/prince.pdf">Preview</a>
+                    </td>
+                    <td>
+                        <a href="https://github.com/zopyx/css-paged-media-tutorial/raw/master/lesson-fonts/prince.pdf">Download</a>
+                    </td>
+                    <td>
+                          
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td>
+                        Antennahouse
+                    </td>
+                    <td>
+                        OK
+                    </td>
+                    <td>
+                        <a href="https://github.com/zopyx/css-paged-media-tutorial/tree/master/lesson-fonts/antennahouse.pdf">Preview</a>
+                    </td>
+                    <td>
+                        <a href="https://github.com/zopyx/css-paged-media-tutorial/raw/master/lesson-fonts/antennahouse.pdf">Download</a>
+                    </td>
+                    <td>
+                          
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td>
+                        Vivliostyle
+                    </td>
+                    <td>
+                        OK
+                    </td>
+                    <td>
+                        <a href="https://github.com/zopyx/css-paged-media-tutorial/tree/master/lesson-fonts/vivliostyle-output.pdf">Preview</a>
+                    </td>
+                    <td>
+                        <a href="https://github.com/zopyx/css-paged-media-tutorial/raw/master/lesson-fonts/vivliostyle-output.pdf">Download</a>
+                    </td>
+                    <td>
+                          
+                    </td>
+                </tr>
+            
+        </tbody>
+  </table>
 
-- **PrinceXML**: OK
-  `Preview <https://github.com/zopyx/css-paged-media-tutorial/tree/master/lesson-fonts/prince.pdf>`_ • `Download <https://github.com/zopyx/css-paged-media-tutorial/raw/master/lesson-fonts/prince.pdf>`_
-  
 
-- **Antennahouse**: OK
-  `Preview <https://github.com/zopyx/css-paged-media-tutorial/tree/master/lesson-fonts/antennahouse.pdf>`_ • `Download <https://github.com/zopyx/css-paged-media-tutorial/raw/master/lesson-fonts/antennahouse.pdf>`_
-  
-
-- **Vivliostyle**: OK
-  `Preview <https://github.com/zopyx/css-paged-media-tutorial/tree/master/lesson-fonts/vivliostyle-output.pdf>`_ • `Download <https://github.com/zopyx/css-paged-media-tutorial/raw/master/lesson-fonts/vivliostyle-output.pdf>`_
-  
 
 
 

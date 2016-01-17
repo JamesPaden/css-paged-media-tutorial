@@ -12,28 +12,102 @@ Repository files
 PDF files
 +++++++++
 
+ .. raw:: html
 
-- **PDFreactor**: OK
-  `Preview <https://github.com/zopyx/css-paged-media-tutorial/tree/master/lesson-guideline/pdfreactor.pdf>`_ • `Download <https://github.com/zopyx/css-paged-media-tutorial/raw/master/lesson-guideline/pdfreactor.pdf>`_
-  
+  <table class="table">
+        <thead>
+            <tr>
+                <th>Converter</th>
+                <th>Status</th>
+                <th>PDF Preview</th>
+                <th>PDF Download</th>
+                <th>Comment</th>
+            </tr>
+        </thead>
+        <tbody>
+            
+                <tr>
+                    <td>
+                        PDFreactor
+                    </td>
+                    <td>
+                        OK
+                    </td>
+                    <td>
+                        <a href="https://github.com/zopyx/css-paged-media-tutorial/tree/master/lesson-guideline/pdfreactor.pdf">Preview</a>
+                    </td>
+                    <td>
+                        <a href="https://github.com/zopyx/css-paged-media-tutorial/raw/master/lesson-guideline/pdfreactor.pdf">Download</a>
+                    </td>
+                    <td>
+                          
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td>
+                        PrinceXML
+                    </td>
+                    <td>
+                        unrated
+                    </td>
+                    <td>
+                        <a href="https://github.com/zopyx/css-paged-media-tutorial/tree/master/lesson-guideline/prince.pdf">Preview</a>
+                    </td>
+                    <td>
+                        <a href="https://github.com/zopyx/css-paged-media-tutorial/raw/master/lesson-guideline/prince.pdf">Download</a>
+                    </td>
+                    <td>
+                           
+                          given styles specific to PDFreactor
+                          
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td>
+                        Antennahouse
+                    </td>
+                    <td>
+                        unrated
+                    </td>
+                    <td>
+                        <a href="https://github.com/zopyx/css-paged-media-tutorial/tree/master/lesson-guideline/antennahouse.pdf">Preview</a>
+                    </td>
+                    <td>
+                        <a href="https://github.com/zopyx/css-paged-media-tutorial/raw/master/lesson-guideline/antennahouse.pdf">Download</a>
+                    </td>
+                    <td>
+                           
+                          given styles specific to PDFreactor
+                          
+                    </td>
+                </tr>
+            
+                <tr>
+                    <td>
+                        Vivliostyle
+                    </td>
+                    <td>
+                        unrated
+                    </td>
+                    <td>
+                        <a href="https://github.com/zopyx/css-paged-media-tutorial/tree/master/lesson-guideline/vivliostyle-output.pdf">Preview</a>
+                    </td>
+                    <td>
+                        <a href="https://github.com/zopyx/css-paged-media-tutorial/raw/master/lesson-guideline/vivliostyle-output.pdf">Download</a>
+                    </td>
+                    <td>
+                           
+                          given styles specific to PDFreactor
+                          
+                    </td>
+                </tr>
+            
+        </tbody>
+  </table>
 
-- **PrinceXML**: unrated
-  `Preview <https://github.com/zopyx/css-paged-media-tutorial/tree/master/lesson-guideline/prince.pdf>`_ • `Download <https://github.com/zopyx/css-paged-media-tutorial/raw/master/lesson-guideline/prince.pdf>`_
-   
-  given styles specific to PDFreactor
-  
 
-- **Antennahouse**: unrated
-  `Preview <https://github.com/zopyx/css-paged-media-tutorial/tree/master/lesson-guideline/antennahouse.pdf>`_ • `Download <https://github.com/zopyx/css-paged-media-tutorial/raw/master/lesson-guideline/antennahouse.pdf>`_
-   
-  given styles specific to PDFreactor
-  
-
-- **Vivliostyle**: unrated
-  `Preview <https://github.com/zopyx/css-paged-media-tutorial/tree/master/lesson-guideline/vivliostyle-output.pdf>`_ • `Download <https://github.com/zopyx/css-paged-media-tutorial/raw/master/lesson-guideline/vivliostyle-output.pdf>`_
-   
-  given styles specific to PDFreactor
-  
 
 
 
