@@ -39,6 +39,9 @@ Services
 - Electronic publishing solutions
 - XML based publishing
 - web applications and portals
+
+Training
+--------
 - `CSS Paged Media training, consulting and development <https://www.produce-and-publish.com/information/training/generating-high-quality-pdf-documents-from-xml-and-html-using-css-paged-media/>`_
 
 

@@ -1,4 +1,4 @@
-Tutorial and showcase
+Introduction
 =====================
 
 This tutorial shows how to generate PDF documents from XML/HTML
@@ -15,6 +15,14 @@ PDF documents from XML/HTML as input and CSS for styling. Consider it as
 an extension for CSS for print purposes. So it is obvious that CSS Paged Media
 must deal with print aspects like pagination, page formats, page regions or 
 other print specific aspects.
+
+Usecases for CSS Paged Media
+----------------------------
+
+- text-oriented publications (books, newspapers, documentation etc.).
+- layout-oriented publictions (flyers, brochures, web-to-print applications)
+- technical documentation 
+- etc.
 
 Status of this tutorial
 -----------------------
