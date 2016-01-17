@@ -14,7 +14,7 @@ PDF files
 
  .. raw:: html
 
-  <table class="table">
+    <table class="table">
         <thead>
             <tr>
                 <th>Converter</th>
@@ -103,9 +103,7 @@ PDF files
                 </tr>
             
         </tbody>
-  </table>
-
-
+    </table>
 
 
 

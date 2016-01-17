@@ -9,6 +9,7 @@ print-css.rocks - A tutorial and showcase for CSS Paged Media
    tools.rst
    lessons.rst
    compliance.rst
+   references.rst
    supplementary.rst
    about.rst
    :maxdepth: 2
