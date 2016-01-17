@@ -32,6 +32,7 @@ import sphinx_bootstrap_theme
 # ones.
 extensions = [
     'sphinx.ext.viewcode',
+    'sphinxcontrib.googleanalytics'
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -357,3 +358,7 @@ epub_exclude_files = ['search.html']
 
 # If false, no index is generated.
 #epub_use_index = True
+
+
+googleanalytics_id  = 'UA-65716-20'
+googleanalytics_enabled = True
