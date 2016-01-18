@@ -1,13 +1,13 @@
-Lesson: lesson-multi-columns
+Lesson: lesson-named-pages
 =====================================================
 
-.. include:: ../../lesson-multi-columns/README.rst
+.. include:: ../../lesson-named-pages/README.rst
 
 
 Repository files
 ++++++++++++++++
 
-- https://github.com/zopyx/css-paged-media-tutorial/tree/master/lesson-multi-columns
+- https://github.com/zopyx/css-paged-media-tutorial/tree/master/lesson-named-pages
 
 PDF files
 +++++++++
@@ -34,10 +34,10 @@ PDF files
                         OK
                     </td>
                     <td>
-                        <a href="https://github.com/zopyx/css-paged-media-tutorial/tree/master/lesson-multi-columns/pdfreactor.pdf">Preview</a>
+                        <a href="https://github.com/zopyx/css-paged-media-tutorial/tree/master/lesson-named-pages/pdfreactor.pdf">Preview</a>
                     </td>
                     <td>
-                        <a href="https://github.com/zopyx/css-paged-media-tutorial/raw/master/lesson-multi-columns/pdfreactor.pdf">Download</a>
+                        <a href="https://github.com/zopyx/css-paged-media-tutorial/raw/master/lesson-named-pages/pdfreactor.pdf">Download</a>
                     </td>
                     <td>
                           
@@ -52,10 +52,10 @@ PDF files
                         OK
                     </td>
                     <td>
-                        <a href="https://github.com/zopyx/css-paged-media-tutorial/tree/master/lesson-multi-columns/prince.pdf">Preview</a>
+                        <a href="https://github.com/zopyx/css-paged-media-tutorial/tree/master/lesson-named-pages/prince.pdf">Preview</a>
                     </td>
                     <td>
-                        <a href="https://github.com/zopyx/css-paged-media-tutorial/raw/master/lesson-multi-columns/prince.pdf">Download</a>
+                        <a href="https://github.com/zopyx/css-paged-media-tutorial/raw/master/lesson-named-pages/prince.pdf">Download</a>
                     </td>
                     <td>
                           
@@ -70,10 +70,10 @@ PDF files
                         OK
                     </td>
                     <td>
-                        <a href="https://github.com/zopyx/css-paged-media-tutorial/tree/master/lesson-multi-columns/antennahouse.pdf">Preview</a>
+                        <a href="https://github.com/zopyx/css-paged-media-tutorial/tree/master/lesson-named-pages/antennahouse.pdf">Preview</a>
                     </td>
                     <td>
-                        <a href="https://github.com/zopyx/css-paged-media-tutorial/raw/master/lesson-multi-columns/antennahouse.pdf">Download</a>
+                        <a href="https://github.com/zopyx/css-paged-media-tutorial/raw/master/lesson-named-pages/antennahouse.pdf">Download</a>
                     </td>
                     <td>
                           
@@ -85,17 +85,15 @@ PDF files
                         Vivliostyle
                     </td>
                     <td>
-                        ERROR
+                        
                     </td>
                     <td>
-                        <a href="https://github.com/zopyx/css-paged-media-tutorial/tree/master/lesson-multi-columns/vivliostyle-output.pdf">Preview</a>
+                        <a href="https://github.com/zopyx/css-paged-media-tutorial/tree/master/lesson-named-pages/vivliostyle-output.pdf">Preview</a>
                     </td>
                     <td>
-                        <a href="https://github.com/zopyx/css-paged-media-tutorial/raw/master/lesson-multi-columns/vivliostyle-output.pdf">Download</a>
+                        <a href="https://github.com/zopyx/css-paged-media-tutorial/raw/master/lesson-named-pages/vivliostyle-output.pdf">Download</a>
                     </td>
                     <td>
-                           
-                          does not support standard CSS multi columns
                           
                     </td>
                 </tr>
@@ -108,7 +106,7 @@ PDF files
 Stylesheet
 ++++++++++
 
-.. literalinclude:: ../../lesson-multi-columns/styles.css
+.. literalinclude:: ../../lesson-named-pages/styles.css
   :language: css
   :linenos:
 
@@ -117,7 +115,7 @@ Stylesheet
 
 HTML input
 ++++++++++
-.. literalinclude:: ../../lesson-multi-columns/index.html
+.. literalinclude:: ../../lesson-named-pages/index.html
   :language: html
   :linenos:
 

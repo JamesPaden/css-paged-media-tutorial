@@ -1,13 +1,13 @@
-Lesson: lesson-multi-columns
+Lesson: lesson-box-styling
 =====================================================
 
-.. include:: ../../lesson-multi-columns/README.rst
+.. include:: ../../lesson-box-styling/README.rst
 
 
 Repository files
 ++++++++++++++++
 
-- https://github.com/zopyx/css-paged-media-tutorial/tree/master/lesson-multi-columns
+- https://github.com/zopyx/css-paged-media-tutorial/tree/master/lesson-box-styling
 
 PDF files
 +++++++++
@@ -31,15 +31,17 @@ PDF files
                         PDFreactor
                     </td>
                     <td>
-                        OK
+                        ERROR
                     </td>
                     <td>
-                        <a href="https://github.com/zopyx/css-paged-media-tutorial/tree/master/lesson-multi-columns/pdfreactor.pdf">Preview</a>
+                        <a href="https://github.com/zopyx/css-paged-media-tutorial/tree/master/lesson-box-styling/pdfreactor.pdf">Preview</a>
                     </td>
                     <td>
-                        <a href="https://github.com/zopyx/css-paged-media-tutorial/raw/master/lesson-multi-columns/pdfreactor.pdf">Download</a>
+                        <a href="https://github.com/zopyx/css-paged-media-tutorial/raw/master/lesson-box-styling/pdfreactor.pdf">Download</a>
                     </td>
                     <td>
+                           
+                          CSS 3 property box-shadow is not support
                           
                     </td>
                 </tr>
@@ -49,15 +51,17 @@ PDF files
                         PrinceXML
                     </td>
                     <td>
-                        OK
+                        ERROR
                     </td>
                     <td>
-                        <a href="https://github.com/zopyx/css-paged-media-tutorial/tree/master/lesson-multi-columns/prince.pdf">Preview</a>
+                        <a href="https://github.com/zopyx/css-paged-media-tutorial/tree/master/lesson-box-styling/prince.pdf">Preview</a>
                     </td>
                     <td>
-                        <a href="https://github.com/zopyx/css-paged-media-tutorial/raw/master/lesson-multi-columns/prince.pdf">Download</a>
+                        <a href="https://github.com/zopyx/css-paged-media-tutorial/raw/master/lesson-box-styling/prince.pdf">Download</a>
                     </td>
                     <td>
+                           
+                          CSS 3 property box-shadow is not support
                           
                     </td>
                 </tr>
@@ -70,10 +74,10 @@ PDF files
                         OK
                     </td>
                     <td>
-                        <a href="https://github.com/zopyx/css-paged-media-tutorial/tree/master/lesson-multi-columns/antennahouse.pdf">Preview</a>
+                        <a href="https://github.com/zopyx/css-paged-media-tutorial/tree/master/lesson-box-styling/antennahouse.pdf">Preview</a>
                     </td>
                     <td>
-                        <a href="https://github.com/zopyx/css-paged-media-tutorial/raw/master/lesson-multi-columns/antennahouse.pdf">Download</a>
+                        <a href="https://github.com/zopyx/css-paged-media-tutorial/raw/master/lesson-box-styling/antennahouse.pdf">Download</a>
                     </td>
                     <td>
                           
@@ -88,14 +92,14 @@ PDF files
                         ERROR
                     </td>
                     <td>
-                        <a href="https://github.com/zopyx/css-paged-media-tutorial/tree/master/lesson-multi-columns/vivliostyle-output.pdf">Preview</a>
+                        <a href="https://github.com/zopyx/css-paged-media-tutorial/tree/master/lesson-box-styling/vivliostyle-output.pdf">Preview</a>
                     </td>
                     <td>
-                        <a href="https://github.com/zopyx/css-paged-media-tutorial/raw/master/lesson-multi-columns/vivliostyle-output.pdf">Download</a>
+                        <a href="https://github.com/zopyx/css-paged-media-tutorial/raw/master/lesson-box-styling/vivliostyle-output.pdf">Download</a>
                     </td>
                     <td>
                            
-                          does not support standard CSS multi columns
+                          CSS 3 property box-shadow is not support
                           
                     </td>
                 </tr>
@@ -108,7 +112,7 @@ PDF files
 Stylesheet
 ++++++++++
 
-.. literalinclude:: ../../lesson-multi-columns/styles.css
+.. literalinclude:: ../../lesson-box-styling/styles.css
   :language: css
   :linenos:
 
@@ -117,7 +121,7 @@ Stylesheet
 
 HTML input
 ++++++++++
-.. literalinclude:: ../../lesson-multi-columns/index.html
+.. literalinclude:: ../../lesson-box-styling/index.html
   :language: html
   :linenos:
 

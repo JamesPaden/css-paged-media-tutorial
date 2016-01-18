@@ -1,13 +1,13 @@
-Lesson: lesson-multi-columns
+Lesson: lesson-footnotes-multi-columns
 =====================================================
 
-.. include:: ../../lesson-multi-columns/README.rst
+.. include:: ../../lesson-footnotes-multi-columns/README.rst
 
 
 Repository files
 ++++++++++++++++
 
-- https://github.com/zopyx/css-paged-media-tutorial/tree/master/lesson-multi-columns
+- https://github.com/zopyx/css-paged-media-tutorial/tree/master/lesson-footnotes-multi-columns
 
 PDF files
 +++++++++
@@ -34,10 +34,10 @@ PDF files
                         OK
                     </td>
                     <td>
-                        <a href="https://github.com/zopyx/css-paged-media-tutorial/tree/master/lesson-multi-columns/pdfreactor.pdf">Preview</a>
+                        <a href="https://github.com/zopyx/css-paged-media-tutorial/tree/master/lesson-footnotes-multi-columns/pdfreactor.pdf">Preview</a>
                     </td>
                     <td>
-                        <a href="https://github.com/zopyx/css-paged-media-tutorial/raw/master/lesson-multi-columns/pdfreactor.pdf">Download</a>
+                        <a href="https://github.com/zopyx/css-paged-media-tutorial/raw/master/lesson-footnotes-multi-columns/pdfreactor.pdf">Download</a>
                     </td>
                     <td>
                           
@@ -52,10 +52,10 @@ PDF files
                         OK
                     </td>
                     <td>
-                        <a href="https://github.com/zopyx/css-paged-media-tutorial/tree/master/lesson-multi-columns/prince.pdf">Preview</a>
+                        <a href="https://github.com/zopyx/css-paged-media-tutorial/tree/master/lesson-footnotes-multi-columns/prince.pdf">Preview</a>
                     </td>
                     <td>
-                        <a href="https://github.com/zopyx/css-paged-media-tutorial/raw/master/lesson-multi-columns/prince.pdf">Download</a>
+                        <a href="https://github.com/zopyx/css-paged-media-tutorial/raw/master/lesson-footnotes-multi-columns/prince.pdf">Download</a>
                     </td>
                     <td>
                           
@@ -70,10 +70,10 @@ PDF files
                         OK
                     </td>
                     <td>
-                        <a href="https://github.com/zopyx/css-paged-media-tutorial/tree/master/lesson-multi-columns/antennahouse.pdf">Preview</a>
+                        <a href="https://github.com/zopyx/css-paged-media-tutorial/tree/master/lesson-footnotes-multi-columns/antennahouse.pdf">Preview</a>
                     </td>
                     <td>
-                        <a href="https://github.com/zopyx/css-paged-media-tutorial/raw/master/lesson-multi-columns/antennahouse.pdf">Download</a>
+                        <a href="https://github.com/zopyx/css-paged-media-tutorial/raw/master/lesson-footnotes-multi-columns/antennahouse.pdf">Download</a>
                     </td>
                     <td>
                           
@@ -88,10 +88,10 @@ PDF files
                         ERROR
                     </td>
                     <td>
-                        <a href="https://github.com/zopyx/css-paged-media-tutorial/tree/master/lesson-multi-columns/vivliostyle-output.pdf">Preview</a>
+                        <a href="https://github.com/zopyx/css-paged-media-tutorial/tree/master/lesson-footnotes-multi-columns/vivliostyle-output.pdf">Preview</a>
                     </td>
                     <td>
-                        <a href="https://github.com/zopyx/css-paged-media-tutorial/raw/master/lesson-multi-columns/vivliostyle-output.pdf">Download</a>
+                        <a href="https://github.com/zopyx/css-paged-media-tutorial/raw/master/lesson-footnotes-multi-columns/vivliostyle-output.pdf">Download</a>
                     </td>
                     <td>
                            
@@ -108,7 +108,7 @@ PDF files
 Stylesheet
 ++++++++++
 
-.. literalinclude:: ../../lesson-multi-columns/styles.css
+.. literalinclude:: ../../lesson-footnotes-multi-columns/styles.css
   :language: css
   :linenos:
 
@@ -117,7 +117,7 @@ Stylesheet
 
 HTML input
 ++++++++++
-.. literalinclude:: ../../lesson-multi-columns/index.html
+.. literalinclude:: ../../lesson-footnotes-multi-columns/index.html
   :language: html
   :linenos:
 
