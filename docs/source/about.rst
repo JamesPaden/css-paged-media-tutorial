@@ -1,3 +1,14 @@
+
+.. note:: Disclaimer
+
+    The author and maintainer of this site is not affiliated with any company or
+    vendor. All opionions expressed on this page are the opinion of the author and
+    the maintainer based year-long research and experience with various tools. All
+    results are based on experience and research. If you object any result or
+    opinion then please get in touch in order to discuss or correct a problem with
+    the site. I am happy to discuss details and to accept contributions for
+    improving this site of time.
+
 About this site
 ===============
 
@@ -43,6 +54,7 @@ Services
 Training
 --------
 - `CSS Paged Media training, consulting and development <https://www.produce-and-publish.com/information/training/generating-high-quality-pdf-documents-from-xml-and-html-using-css-paged-media/>`_
+
 
 
 Licence

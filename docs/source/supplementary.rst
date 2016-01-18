@@ -4,7 +4,7 @@ Related information
 Video
 -----
 
-- **Publishing with CSS Paged Media – A review of existing tools and techniques** by Andreas Jung (XML Prague 2015)
+- `Publishing with CSS Paged Media – A review of existing tools and techniques <https://www.youtube.com/watch?v=H-5_b9m3p1k>`_ by Andreas Jung (XML Prague 2015)
 
     .. raw:: html 
 
@@ -13,7 +13,7 @@ Video
 Slides
 ------
 
-- **Publishing with CSS Paged Media – A review of existing tools and techniques** by Andreas Jung (XML Prague 2015)
+- `Publishing with CSS Paged Media – A review of existing tools and techniques <http://de.slideshare.net/ajung/css-paged-media-a-review-of-tools-and-techniques>`_ by Andreas Jung (XML Prague 2015)
 
     .. raw:: html 
 
@@ -34,10 +34,12 @@ Books
 
        <img src="http://www.pagina-online.de/fileadmin/_processed_/csm_Goetz_PrintCSS_Cover_919d071b68.jpg"/>
 
-Standard
---------
+Standards and drafts
+--------------------
 
--  `CSS Paged Media Module Level 3 <https://www.w3.org/TR/css3-page/>`_
+- `CSS Paged Media Module Level 3 <https://www.w3.org/TR/css3-page/>`_
+- `Requirements for Latin Text Layout and Pagination <https://www.w3.org/TR/2014/WD-dpub-latinreq-20140930/>`_
+- `CSS Exclusions Module Level 1 <https://www.w3.org/TR/css3-exclusions/>`_
 
 Articles
 --------
@@ -47,5 +49,5 @@ Articles
 - `Introduction to the Paged Media Module in CSS 3 <http://www.techrepublic.com/blog/web-designer/introduction-to-the-paged-media-module-in-css3/>`_
 - `XSL-FO Is Dead, CSS Paged Media Is Prime Suspect <http://www.rockweb.co.uk/blog/2014/06/xsl-fo-is-dead,-css-paged-media-is-prime-suspect/>`_
 - `PRINTING WEB PAGES WITH THE PAGED MEDIA MODULE <https://www.stevefenton.co.uk/2013/12/printing-web-pages-with-the-paged-media-module/>`_
-
 - `CSS 3 (and HTML) for Publishers <http://chimera.labs.oreilly.com/books/1234000001694/index.html>`_
+- `PubCSS: Formatting Academic Publications in HTML & CSS  <http://thomaspark.co/2015/01/pubcss-formatting-academic-publications-in-html-css/>`_
