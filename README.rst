@@ -209,9 +209,9 @@ Docraptor
 
 * Personal rating:
 
-  * Same quality as with PrinceXML (since Docraptor is backed by PrinceXML)
-  * If privacy is an issue than Docraptor is not an option.
-  * Princing is based on conversion volume and appears reasonable. Not sure
+  * Same PDF quality as PrinceXML, but DocRaptor does offer better JavaScript parsing on top of the PrinceXML engine
+  * Using DocRaptor requires sending your document to a third-party, but they can delete it immediately upon processing
+  * Pricing is based on conversion volume and appears reasonable. Not sure
     when a self-hosted version of some other professional converter is cheaper
     and the better option in the long run).
 
