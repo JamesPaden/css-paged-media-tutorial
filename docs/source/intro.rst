@@ -66,14 +66,14 @@ PDFreactor
 
 .. code-block:: shell
 
-  > prince index.html index.pdf
+  > pdfreactor index.html index.pdf
 
 PrinceXML
 +++++++++
 
 .. code-block:: shell
 
-  > pdfreactor index.html index.pdf
+  > prince index.html index.pdf
 
 Vivliostyle Formatter
 +++++++++++++++++++++
