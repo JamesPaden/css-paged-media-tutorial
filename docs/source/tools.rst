@@ -13,6 +13,7 @@ PDFreactor
 
 * Current version: 8
 * Website: http://www.pdfreactor.com
+* `CSS Compliance <http://www.pdfreactor.com/product/doc_html/index.html#SupportedCSSPropertiesSection>`_
 * Sample documents: http://www.pdfreactor.com/samples/
 * Pricing: 
 
@@ -33,6 +34,7 @@ PrinceXML
 * Current version: 10
 * Website: http://www.princexml.com
 * Sample documents: http://www.princexml.com/samples
+* `CSS Compliance <http://www.princexml.com/doc/properties/>`_
 * Pricing: 
 
   * 4 CPU server license:    3800 USD
@@ -76,6 +78,7 @@ Antennahouse CSS Formatter
 
 * Current version: 6.2
 * Website: http://www.antennahouse.com
+* `CSS Compliance <http://www.antennahouse.com/antenna1/css-conformance/>`_
 * Pricing:
 
   * Server license with one CPU: 5000 USD
