@@ -1,0 +1,22 @@
+@import url("../styles/a5.css");
+
+h1 {
+    font-size: 1.6em;
+    color: blue;
+}
+
+@page Portrait {
+    size: a5;
+}
+
+@page Landscape {
+    size: a5 landscape;
+}
+
+#portait {
+    page: Portrait;
+}
+
+#landscape {
+    page: Landscape;
+}
